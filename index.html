@@ -6,7 +6,7 @@
     <title>AC Elite - Simracing Community</title>
     <meta
       name="description"
-      content="AC Elite - Premium Tatuus FA01 Racing League. Track your stats, compete on leaderboards, and join the community."
+      content="AC Elite | Track your stats, compete on leaderboards, and join the community."
     />
     <link rel="icon" type="image/png" href="logo.png" />
 
@@ -147,7 +147,7 @@
         border-left: 4px solid #3b82f6;
       }
 
-      /* Licences */
+      /* Licences (voor later, maar styles mogen blijven) */
       .licence-platinum {
         background: linear-gradient(
           135deg,
@@ -310,6 +310,20 @@
         color: rgba(255, 255, 255, 0.4);
       }
 
+      .btn-disabled {
+        background: transparent;
+        border: 1px solid rgba(148, 163, 184, 0.5); /* slate-400-ish */
+        color: #64748b; /* slate-500-ish */
+        cursor: not-allowed;
+        opacity: 0.6;
+        transition: all 0.3s ease;
+      }
+
+      .btn-disabled:hover {
+        background: transparent;
+        border-color: rgba(148, 163, 184, 0.7);
+      }
+
       /* Animations */
       @keyframes float {
         0%,
@@ -348,7 +362,6 @@
         animation: pulse-glow 2s ease-in-out infinite;
       }
 
-      /* Hero pattern */
       .hero-pattern {
         background-image: radial-gradient(
             circle at 20% 50%,
@@ -437,7 +450,7 @@
                 AC ELITE
               </h1>
               <p class="text-xs text-slate-400 hidden sm:block">
-                Tatuus FA01 Racing League
+                Simracing community
               </p>
             </div>
           </div>
@@ -459,11 +472,11 @@
               <span class="hidden sm:inline">🏆 </span>Leaderboard
             </button>
             <button
-              onclick="showPage('shop')"
+              onclick="showComingSoon()"
               id="nav-shop"
-              class="nav-btn btn-ghost px-3 sm:px-5 py-2.5 rounded-xl font-semibold text-sm sm:text-base"
+              class="nav-btn btn-disabled px-3 sm:px-5 py-2.5 rounded-xl font-semibold text-sm sm:text-base"
             >
-              <span class="hidden sm:inline">🛒 </span>Shop
+              <span class="hidden sm:inline">🛠️ </span>Setups
             </button>
           </div>
         </div>
@@ -640,16 +653,10 @@
                 </p>
               </div>
             </div>
-            <div class="flex flex-col items-start sm:items-end gap-2">
-              <div
-                id="driver-licence"
-                class="licence-gold text-slate-900 font-bold px-5 py-2 rounded-xl text-sm"
-              >
-                Gold Licence
-              </div>
-              <p id="driver-score" class="text-slate-400 text-sm">
-                Score: 523.45
-              </p>
+            <div
+              class="flex flex-col items-start sm:items-end gap-1 text-slate-400 text-sm"
+            >
+              <p id="driver-summary">Select a driver to view stats</p>
             </div>
           </div>
         </div>
@@ -814,57 +821,6 @@
                   >0.00</span
                 >
               </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Licence Info -->
-        <div class="glass-card rounded-2xl p-6">
-          <h3
-            class="font-racing text-xl font-bold text-amber-400 mb-6 flex items-center gap-3"
-          >
-            <span class="text-2xl">📜</span> Licence Tiers
-          </h3>
-          <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-            <div
-              class="text-center p-5 rounded-xl bg-white/5 border border-white/5 hover:border-amber-500/30 transition-all"
-            >
-              <div
-                class="licence-platinum text-slate-900 font-bold px-4 py-1.5 rounded-lg inline-block mb-3 text-sm"
-              >
-                Platinum
-              </div>
-              <p class="text-slate-400 text-sm">Score ≥ 700</p>
-            </div>
-            <div
-              class="text-center p-5 rounded-xl bg-white/5 border border-white/5 hover:border-amber-500/30 transition-all"
-            >
-              <div
-                class="licence-gold text-slate-900 font-bold px-4 py-1.5 rounded-lg inline-block mb-3 text-sm"
-              >
-                Gold
-              </div>
-              <p class="text-slate-400 text-sm">Score ≥ 500</p>
-            </div>
-            <div
-              class="text-center p-5 rounded-xl bg-white/5 border border-white/5 hover:border-amber-500/30 transition-all"
-            >
-              <div
-                class="licence-silver text-slate-900 font-bold px-4 py-1.5 rounded-lg inline-block mb-3 text-sm"
-              >
-                Silver
-              </div>
-              <p class="text-slate-400 text-sm">Score ≥ 200</p>
-            </div>
-            <div
-              class="text-center p-5 rounded-xl bg-white/5 border border-white/5 hover:border-amber-500/30 transition-all"
-            >
-              <div
-                class="licence-bronze text-slate-900 font-bold px-4 py-1.5 rounded-lg inline-block mb-3 text-sm"
-              >
-                Bronze
-              </div>
-              <p class="text-slate-400 text-sm">Score ≥ 0</p>
             </div>
           </div>
         </div>
@@ -1063,7 +1019,7 @@
           <span class="font-racing text-xl text-amber-400">AC ELITE</span>
         </div>
         <p class="text-slate-500 text-sm mb-2">
-          Vote for next week's track on Discord • Tatuus FA01 Racing League
+          Vote for next week's track on Discord • discord.gg/d2EbxGYBbj
         </p>
         <p class="text-slate-600 text-xs" id="last-sync">
           Data synced via GitHub Actions
@@ -1150,7 +1106,7 @@
                     <span class="relative flex h-2.5 w-2.5">
                         <span class="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500"></span>
                     </span>
-                    <span class="text-sm text-slate-300">${timeAgo} • Auto-sync every 5 min</span>
+                    <span class="text-sm text-slate-300">${timeAgo}</span>
                 `;
         } else {
           status.innerHTML = `
@@ -1214,17 +1170,27 @@
       /* ===================== TRACK NAMES ===================== */
 
       const trackNames = {
-        ks_zandvoort: "Zandvoort",
-        spa: "Spa-Francorchamps",
-        ks_silverstone: "Silverstone",
-        ks_monza66: "Monza",
-        imola: "Imola",
+        ks_barcelona_layout_gp: "Barcelona - GP",
+        ks_barcelona_layout_moto: "Barcelona - Moto",
+        ks_black_cat_county_layout_short: "Black Cat County - Short",
+        ks_brands_hatch_gp: "Brands Hatch - GP",
+        imola_: "Imola",
+        ks_laguna_seca_: "Laguna Seca",
+        magione_: "Magione",
+        monza_: "Monza",
+        ks_monza66_junior: "Monza 1966 - Junior Course",
+        ks_monza66_road: "Monza 1966 - Road Course",
+        mugello_: "Mugello",
+        ks_nordschleife_nordschleife: "Nordschleife",
+        ks_nordschleife_endurance: "Nordschleife Endurance",
         ks_nurburgring_layout_gp_a: "Nürburgring GP",
-        "ks_red_bull_ring-layout_gp": "Red Bull Ring",
-        ks_brands_hatch: "Brands Hatch",
-        "ks_barcelona-layout_gp": "Barcelona",
-        ks_hungaroring: "Hungaroring",
-        mugello: "Mugello",
+        ks_nurburgring_layout_gp_b: "Nürburgring GP - GT",
+        ks_red_bull_ring_layout_gp: "Red Bull Ring - GP",
+        ks_silverstone_gp: "Silverstone - GP",
+        ks_silverstone_national: "Silverstone - National",
+        spa_: "Spa",
+        ks_vallelunga_extended_circuit: "Vallelunga",
+        ks_zandvoort_: "Zandvoort",
       };
 
       function getTrackDisplayName(trackId) {
@@ -1302,15 +1268,22 @@
         },
       ];
 
-      /* ===================== SCORE CALCULATION ===================== */
+      /* ===================== SCORE CALCULATION (voor later) ===================== */
 
       function calculateScore(d) {
         const km = Math.max(1, d.kilometers ?? 0);
+        const crashes = d.crashes ?? d.collisions ?? 0;
+        const infr = d.infr ?? 0;
+
+        const cr_per_100km = km > 0 ? crashes / (km / 100) : 0;
+        const infr_per_100km = km > 0 ? infr / (km / 100) : 0;
+
         const winRate = (d.wins ?? 0) / (km / 1000);
         const podiumRate = (d.podiums ?? 0) / (km / 1000);
         const poleRate = (d.poles ?? 0) / (km / 1000);
         const flapRate = (d.flaps ?? 0) / (km / 1000);
         const enduranceBonus = Math.log10(km);
+
         return (
           winRate * 30 +
           podiumRate * 20 +
@@ -1318,10 +1291,10 @@
           flapRate * 12 +
           enduranceBonus * 10 +
           (d.points ?? 0) * 0.05 -
-          (d.infr ?? 0) * 1.5 -
-          (d.crashes ?? 0) * 2.0 -
-          (d.infr_per_100km ?? 0) * 25 -
-          (d.cr_per_100km ?? 0) * 30
+          infr * 1.5 -
+          crashes * 2.0 -
+          infr_per_100km * 25 -
+          cr_per_100km * 30
         );
       }
 
@@ -1478,55 +1451,76 @@
         document.getElementById("no-driver").classList.add("hidden");
         document.getElementById("driver-stats").classList.remove("hidden");
 
-        const score = calculateScore(driver);
-        const licence = getLicence(score);
-        const races = driver.races || 0;
-        const winRate =
-          races > 0 ? ((driver.wins / races) * 100).toFixed(1) : 0;
-        const podiumRate =
-          races > 0 ? ((driver.podiums / races) * 100).toFixed(1) : 0;
+        const km = driver.kilometers || 0;
 
+        // Total laps uit driver.leaderboard -> [track][CAR].laps
+        let totalLaps = 0;
+        if (typeof driver.laps === "number") {
+          totalLaps = driver.laps;
+        } else if (driver.leaderboard) {
+          Object.values(driver.leaderboard).forEach((trackObj) => {
+            const carStats = trackObj[CAR];
+            if (carStats && typeof carStats.laps === "number") {
+              totalLaps += carStats.laps;
+            }
+          });
+        }
+
+        const crashes = driver.crashes ?? driver.collisions ?? 0;
+        const infr = driver.infr ?? 0;
+
+        const crPer100 = km > 0 ? crashes / (km / 100) : 0;
+        const infrPer100 = km > 0 ? infr / (km / 100) : 0;
+
+        const races = driver.races || 0;
+        const winRate = races > 0 ? ((driver.wins || 0) / races) * 100 : 0;
+        const podiumRate =
+          races > 0 ? ((driver.podiums || 0) / races) * 100 : 0;
+
+        // Header
         document.getElementById("driver-name").textContent = driver.name;
         document.getElementById(
           "driver-guid"
         ).textContent = `GUID: ${driver.guid}`;
-        document.getElementById("driver-licence").textContent = licence.name;
-        document.getElementById(
-          "driver-licence"
-        ).className = `${licence.class} text-slate-900 font-bold px-5 py-2 rounded-xl text-sm`;
-        document.getElementById(
-          "driver-score"
-        ).textContent = `Score: ${score.toFixed(2)}`;
+
+        const summaryEl = document.getElementById("driver-summary");
+        if (summaryEl) {
+          summaryEl.textContent = `Wins: ${driver.wins || 0} • Podiums: ${
+            driver.podiums || 0
+          } • Distance: ${km.toFixed(1)} km`;
+        }
+
+        // Main stats
         document.getElementById("stat-points").textContent = `$${(
           driver.points || 0
         ).toLocaleString()}`;
+
         document.getElementById("stat-wins").textContent = driver.wins || 0;
         document.getElementById(
           "stat-winrate"
-        ).textContent = `${winRate}% win rate`;
+        ).textContent = `${winRate.toFixed(1)}% win rate`;
+
         document.getElementById("stat-podiums").textContent =
           driver.podiums || 0;
         document.getElementById(
           "stat-podiumrate"
-        ).textContent = `${podiumRate}% podium rate`;
-        document.getElementById("stat-km").textContent = `${(
-          driver.kilometers || 0
-        ).toFixed(1)} km`;
+        ).textContent = `${podiumRate.toFixed(1)}% podium rate`;
+
+        document.getElementById("stat-km").textContent = `${km.toFixed(1)} km`;
+
         document.getElementById("stat-poles").textContent = driver.poles || 0;
         document.getElementById("stat-flaps").textContent = driver.flaps || 0;
-        document.getElementById("stat-races").textContent = driver.races || 0;
-        document.getElementById("stat-laps").textContent = (
-          driver.laps || 0
-        ).toLocaleString();
-        document.getElementById("stat-crashes").textContent =
-          driver.crashes || 0;
-        document.getElementById("stat-cr100").textContent = (
-          driver.cr_per_100km || 0
-        ).toFixed(2);
-        document.getElementById("stat-infr").textContent = driver.infr || 0;
-        document.getElementById("stat-infr100").textContent = (
-          driver.infr_per_100km || 0
-        ).toFixed(2);
+
+        document.getElementById("stat-races").textContent = races;
+        document.getElementById("stat-laps").textContent =
+          totalLaps.toLocaleString();
+
+        document.getElementById("stat-crashes").textContent = crashes;
+        document.getElementById("stat-cr100").textContent = crPer100.toFixed(2);
+
+        document.getElementById("stat-infr").textContent = infr;
+        document.getElementById("stat-infr100").textContent =
+          infrPer100.toFixed(2);
       }
 
       /* ===================== LEADERBOARD ===================== */
@@ -1610,7 +1604,10 @@
               posClass = "bg-blue-600 text-white";
             }
 
-            return `<tr class="border-b border-white/5 ${rowClass}">
+            return `<tr class="border-b border-white/5 ${rowClass} cursor-pointer hover:bg-white/5"
+                      onclick="openDriverFromLeaderboard('${
+                        entry.guid || ""
+                      }')">
                     <td class="py-4 px-6"><span class="px-3 py-1.5 rounded-lg text-sm ${posClass}">${pos}</span></td>
                     <td class="py-4 px-6 font-semibold">${escapeHtml(
                       entry.name?.slice(0, 30) || "Unknown"
@@ -1660,6 +1657,18 @@
           currentPage = page;
           renderLeaderboard();
         }
+      }
+
+      function openDriverFromLeaderboard(guid) {
+        if (!guid) return;
+        const driver = rankData.find((d) => d.guid === guid);
+        if (!driver) return;
+        showPage("stats");
+        const searchInput = document.getElementById("driver-search");
+        if (searchInput) {
+          searchInput.value = driver.name;
+        }
+        displayDriverStats(driver);
       }
 
       /* ===================== SHOP ===================== */
@@ -1740,6 +1749,10 @@
         alert(
           `Redirecting to purchase: ${setup.name}\nPrice: $${setup.price}\n\nThis would connect to your payment system.`
         );
+      }
+
+      function showComingSoon() {
+        alert("Setups are coming soon! The shop is currently locked.");
       }
 
       /* ===================== INIT ===================== */
