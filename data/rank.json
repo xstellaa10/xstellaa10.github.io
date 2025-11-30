@@ -108,8 +108,8 @@
  {
   "guid": "76561198828350593",
   "name": "Grimlord",
-  "points": 3287.503,
-  "kilometers": 15460.7,
+  "points": 3288.343,
+  "kilometers": 15474.7,
   "collisions": 363,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -198,13 +198,13 @@
    },
    "ks_barcelona_layout_moto": {
     "tatuusfa1": {
-     "laptime": 99683,
-     "laps": 18,
-     "ts": 1764515885071
+     "laptime": 99394,
+     "laps": 20,
+     "ts": 1764516605768
     }
    }
   },
-  "last_seen": 1764515972136,
+  "last_seen": 1764516697517,
   "wins": 87,
   "podiums": 247,
   "poles": 71,
@@ -1246,8 +1246,8 @@
  {
   "guid": "76561198999518018",
   "name": "David O.",
-  "points": 1069.542,
-  "kilometers": 6850.9,
+  "points": 1069.932,
+  "kilometers": 6868.3,
   "collisions": 67,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -1295,12 +1295,12 @@
    "ks_barcelona_layout_moto": {
     "tatuusfa1": {
      "laptime": 98917,
-     "laps": 200,
-     "ts": 1764515857046
+     "laps": 201,
+     "ts": 1764516404590
     }
    }
   },
-  "last_seen": 1764515972136,
+  "last_seen": 1764516697517,
   "wins": 44,
   "podiums": 92,
   "poles": 25,
