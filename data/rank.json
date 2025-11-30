@@ -1031,7 +1031,7 @@
     }
    }
   },
-  "last_seen": 1764459204595,
+  "last_seen": 1764459238499,
   "wins": 55,
   "podiums": 81,
   "poles": 101,
@@ -1746,7 +1746,7 @@
     }
    }
   },
-  "last_seen": 1764372417406,
+  "last_seen": 1764466564733,
   "wins": 33,
   "podiums": 49,
   "poles": 35,
@@ -52965,6 +52965,21 @@
   "leaderboard": {
   },
   "last_seen": 1762809430232,
+  "wins": 0,
+  "podiums": 0,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 0
+ },
+ {
+  "guid": "76561199756981221",
+  "name": "meetracescarro05",
+  "points": 48.993,
+  "kilometers": 8.5,
+  "collisions": 2,
+  "leaderboard": {
+  },
+  "last_seen": 1764465947395,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
