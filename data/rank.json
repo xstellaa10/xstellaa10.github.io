@@ -532,8 +532,8 @@
  {
   "guid": "76561199664649696",
   "name": "olalekezion810",
-  "points": 1973.023,
-  "kilometers": 27400,
+  "points": 1972.581,
+  "kilometers": 27433.3,
   "collisions": 767,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -628,7 +628,7 @@
     }
    }
   },
-  "last_seen": 1764510361410,
+  "last_seen": 1764510928549,
   "wins": 101,
   "podiums": 225,
   "poles": 63,
@@ -1246,8 +1246,8 @@
  {
   "guid": "76561198999518018",
   "name": "David O.",
-  "points": 1059.666,
-  "kilometers": 6711.7,
+  "points": 1060.086,
+  "kilometers": 6721,
   "collisions": 64,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -1295,12 +1295,12 @@
    "ks_barcelona_layout_moto": {
     "tatuusfa1": {
      "laptime": 98917,
-     "laps": 183,
-     "ts": 1764447434328
+     "laps": 184,
+     "ts": 1764510875959
     }
    }
   },
-  "last_seen": 1764508190968,
+  "last_seen": 1764510928549,
   "wins": 43,
   "podiums": 91,
   "poles": 24,
@@ -19069,7 +19069,7 @@
   "guid": "76561198377311035",
   "name": "fantasymoha19",
   "points": 69.094,
-  "kilometers": 125.8,
+  "kilometers": 139.8,
   "collisions": 34,
   "leaderboard": {
    "magione_": {
@@ -19080,7 +19080,7 @@
     }
    }
   },
-  "last_seen": 1763923475482,
+  "last_seen": 1764510928549,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
