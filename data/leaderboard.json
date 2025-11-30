@@ -30048,6 +30048,12 @@
     "guid": "76561199105585708"
    },
    {
+    "laptime": 99683,
+    "name": "Grimlord",
+    "laps": 18,
+    "guid": "76561198828350593"
+   },
+   {
     "laptime": 99794,
     "name": "43B-FRT-ACERBI",
     "laps": 37,
@@ -30130,12 +30136,6 @@
     "name": "samino",
     "laps": 38,
     "guid": "76561198965135660"
-   },
-   {
-    "laptime": 100191,
-    "name": "Grimlord",
-    "laps": 10,
-    "guid": "76561198828350593"
    },
    {
     "laptime": 100207,
