@@ -30102,12 +30102,6 @@
     "guid": "76561199074878863"
    },
    {
-    "laptime": 99957,
-    "name": "VikingLord",
-    "laps": 16,
-    "guid": "76561199147007110"
-   },
-   {
     "laptime": 100015,
     "name": "Vinzv08_",
     "laps": 21,
@@ -30418,6 +30412,12 @@
     "name": "Xavier787",
     "laps": 6,
     "guid": "76561199016912735"
+   },
+   {
+    "laptime": 101558,
+    "name": "VikingLord",
+    "laps": 2,
+    "guid": "76561199147007110"
    },
    {
     "laptime": 101571,
@@ -31900,6 +31900,12 @@
     "name": "TofiQ",
     "laps": 1,
     "guid": "76561199045458313"
+   },
+   {
+    "laptime": 107323,
+    "name": "MrAstronomic",
+    "laps": 1,
+    "guid": "76561199067737438"
    },
    {
     "laptime": 107374,
