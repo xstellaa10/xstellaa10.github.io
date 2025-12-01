@@ -12796,6 +12796,12 @@
     "guid": "76561198134870673"
    },
    {
+    "laptime": 108448,
+    "name": "Wohall",
+    "laps": 13,
+    "guid": "76561198163482603"
+   },
+   {
     "laptime": 108449,
     "name": "berkeikl",
     "laps": 3,
@@ -13016,6 +13022,12 @@
     "name": "twentyfive25",
     "laps": 12,
     "guid": "76561199204257045"
+   },
+   {
+    "laptime": 108768,
+    "name": "Dann",
+    "laps": 13,
+    "guid": "76561198215413275"
    },
    {
     "laptime": 108776,
@@ -13580,18 +13592,6 @@
     "name": "2cmllc",
     "laps": 1,
     "guid": "76561199045959786"
-   },
-   {
-    "laptime": 109510,
-    "name": "Wohall",
-    "laps": 8,
-    "guid": "76561198163482603"
-   },
-   {
-    "laptime": 109521,
-    "name": "Dann",
-    "laps": 7,
-    "guid": "76561198215413275"
    },
    {
     "laptime": 109530,
@@ -14548,6 +14548,12 @@
     "guid": "76561197969285730"
    },
    {
+    "laptime": 110887,
+    "name": "danDAN",
+    "laps": 11,
+    "guid": "76561199088254392"
+   },
+   {
     "laptime": 110889,
     "name": "Player",
     "laps": 3,
@@ -14794,10 +14800,10 @@
     "guid": "76561198305042962"
    },
    {
-    "laptime": 111280,
-    "name": "danDAN",
-    "laps": 5,
-    "guid": "76561199088254392"
+    "laptime": 111271,
+    "name": "ciamiano",
+    "laps": 8,
+    "guid": "76561199787970392"
    },
    {
     "laptime": 111289,
@@ -15146,6 +15152,12 @@
     "name": "Goose_irl",
     "laps": 2,
     "guid": "76561198116737425"
+   },
+   {
+    "laptime": 111748,
+    "name": "Alfieri Mario",
+    "laps": 1,
+    "guid": "76561198083836842"
    },
    {
     "laptime": 111750,
@@ -15596,12 +15608,6 @@
     "name": "kuba rozruba",
     "laps": 1,
     "guid": "76561198380008200"
-   },
-   {
-    "laptime": 112493,
-    "name": "ciamiano",
-    "laps": 1,
-    "guid": "76561199787970392"
    },
    {
     "laptime": 112505,
