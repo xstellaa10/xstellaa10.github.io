@@ -11314,6 +11314,12 @@
     "guid": "76561199664649696"
    },
    {
+    "laptime": 105581,
+    "name": "Mark Lyons",
+    "laps": 26,
+    "guid": "76561198098029574"
+   },
+   {
     "laptime": 105586,
     "name": "43B-FRT-ACERBI",
     "laps": 17,
@@ -11330,12 +11336,6 @@
     "name": "David O.",
     "laps": 3,
     "guid": "76561198999518018"
-   },
-   {
-    "laptime": 105618,
-    "name": "Mark Lyons",
-    "laps": 8,
-    "guid": "76561198098029574"
    },
    {
     "laptime": 105628,
@@ -12562,6 +12562,12 @@
     "guid": "76561198436964321"
    },
    {
+    "laptime": 108011,
+    "name": "BicycleSid",
+    "laps": 15,
+    "guid": "76561198101135819"
+   },
+   {
     "laptime": 108032,
     "name": "Viktor",
     "laps": 1,
@@ -12620,12 +12626,6 @@
     "name": "Andrea Averone",
     "laps": 1,
     "guid": "76561198035389577"
-   },
-   {
-    "laptime": 108117,
-    "name": "BicycleSid",
-    "laps": 9,
-    "guid": "76561198101135819"
    },
    {
     "laptime": 108128,
@@ -15622,6 +15622,12 @@
     "guid": "76561199863521729"
    },
    {
+    "laptime": 112179,
+    "name": "Nick Wilko",
+    "laps": 1,
+    "guid": "76561198120489677"
+   },
+   {
     "laptime": 112180,
     "name": "Huwelo",
     "laps": 2,
@@ -16010,6 +16016,12 @@
     "name": "pieter.86",
     "laps": 3,
     "guid": "76561199825408842"
+   },
+   {
+    "laptime": 112903,
+    "name": "bite",
+    "laps": 2,
+    "guid": "76561198989387430"
    },
    {
     "laptime": 112920,
