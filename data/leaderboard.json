@@ -11512,6 +11512,12 @@
     "guid": "76561198166239342"
    },
    {
+    "laptime": 106051,
+    "name": "Gian",
+    "laps": 2,
+    "guid": "76561198999796654"
+   },
+   {
     "laptime": 106065,
     "name": "Chef Layo",
     "laps": 13,
@@ -11884,6 +11890,12 @@
     "guid": "76561198379324541"
    },
    {
+    "laptime": 106774,
+    "name": "Wohall",
+    "laps": 40,
+    "guid": "76561198163482603"
+   },
+   {
     "laptime": 106776,
     "name": "csaba11",
     "laps": 5,
@@ -11972,6 +11984,12 @@
     "name": "SimiThePro",
     "laps": 10,
     "guid": "76561198399478476"
+   },
+   {
+    "laptime": 106920,
+    "name": "Jason Lecart",
+    "laps": 20,
+    "guid": "76561197967465684"
    },
    {
     "laptime": 106940,
@@ -12082,12 +12100,6 @@
     "guid": "76561199117738450"
    },
    {
-    "laptime": 107126,
-    "name": "Wohall",
-    "laps": 36,
-    "guid": "76561198163482603"
-   },
-   {
     "laptime": 107128,
     "name": "Tapz",
     "laps": 3,
@@ -12152,12 +12164,6 @@
     "name": "keulers13",
     "laps": 15,
     "guid": "76561198870830103"
-   },
-   {
-    "laptime": 107256,
-    "name": "Jason Lecart",
-    "laps": 14,
-    "guid": "76561197967465684"
    },
    {
     "laptime": 107276,
@@ -12976,6 +12982,12 @@
     "guid": "76561198068655789"
    },
    {
+    "laptime": 108433,
+    "name": "ramartin99",
+    "laps": 10,
+    "guid": "76561198275507448"
+   },
+   {
     "laptime": 108434,
     "name": "kwertz",
     "laps": 7,
@@ -13208,6 +13220,12 @@
     "name": "Tosi",
     "laps": 3,
     "guid": "76561199013912656"
+   },
+   {
+    "laptime": 108693,
+    "name": "Jean Kulki",
+    "laps": 3,
+    "guid": "76561198053591203"
    },
    {
     "laptime": 108698,
@@ -13568,12 +13586,6 @@
     "name": "SirShrimp",
     "laps": 3,
     "guid": "76561198924377983"
-   },
-   {
-    "laptime": 109121,
-    "name": "ramartin99",
-    "laps": 6,
-    "guid": "76561198275507448"
    },
    {
     "laptime": 109124,
@@ -14146,6 +14158,12 @@
     "guid": "76561198156409724"
    },
    {
+    "laptime": 109860,
+    "name": "ciamiano",
+    "laps": 13,
+    "guid": "76561199787970392"
+   },
+   {
     "laptime": 109873,
     "name": "gang gang",
     "laps": 12,
@@ -14614,12 +14632,6 @@
     "guid": "76561199232811588"
    },
    {
-    "laptime": 110373,
-    "name": "ciamiano",
-    "laps": 11,
-    "guid": "76561199787970392"
-   },
-   {
     "laptime": 110379,
     "name": "I don't brake",
     "laps": 6,
@@ -15028,6 +15040,12 @@
     "guid": "76561197989679809"
    },
    {
+    "laptime": 110930,
+    "name": "nelson silva",
+    "laps": 2,
+    "guid": "76561199638932372"
+   },
+   {
     "laptime": 110931,
     "name": "Cameron Coutorie",
     "laps": 1,
@@ -15122,6 +15140,12 @@
     "name": "Niko_",
     "laps": 2,
     "guid": "76561198838804613"
+   },
+   {
+    "laptime": 111036,
+    "name": "Julien Asperti",
+    "laps": 2,
+    "guid": "76561198031517636"
    },
    {
     "laptime": 111050,
@@ -15514,16 +15538,16 @@
     "guid": "76561199102227270"
    },
    {
+    "laptime": 111486,
+    "name": "Hola, soy Antonio Lobato",
+    "laps": 20,
+    "guid": "76561198168190510"
+   },
+   {
     "laptime": 111489,
     "name": "Farmare",
     "laps": 6,
     "guid": "76561198030302941"
-   },
-   {
-    "laptime": 111493,
-    "name": "Hola, soy Antonio Lobato",
-    "laps": 11,
-    "guid": "76561198168190510"
    },
    {
     "laptime": 111495,
@@ -15682,6 +15706,12 @@
     "guid": "76561198319195722"
    },
    {
+    "laptime": 111690,
+    "name": "Aidan1578",
+    "laps": 1,
+    "guid": "76561199528189439"
+   },
+   {
     "laptime": 111742,
     "name": "Goose_irl",
     "laps": 2,
@@ -15764,6 +15794,12 @@
     "name": "hh88",
     "laps": 1,
     "guid": "76561199826273148"
+   },
+   {
+    "laptime": 111854,
+    "name": "Yeet Meister 69",
+    "laps": 2,
+    "guid": "76561198865539477"
    },
    {
     "laptime": 111860,
@@ -16324,6 +16360,12 @@
     "guid": "76561199108781265"
    },
    {
+    "laptime": 112748,
+    "name": "Crypt",
+    "laps": 1,
+    "guid": "76561198249195098"
+   },
+   {
     "laptime": 112750,
     "name": "Tazz",
     "laps": 2,
@@ -16376,6 +16418,12 @@
     "name": "lyxit",
     "laps": 1,
     "guid": "76561199003013558"
+   },
+   {
+    "laptime": 112801,
+    "name": "tedin1_",
+    "laps": 2,
+    "guid": "76561199808100604"
    },
    {
     "laptime": 112806,
@@ -16598,6 +16646,12 @@
     "name": "Jxck2012",
     "laps": 5,
     "guid": "76561199818500606"
+   },
+   {
+    "laptime": 113135,
+    "name": "Kizikx",
+    "laps": 2,
+    "guid": "76561198159772563"
    },
    {
     "laptime": 113146,
@@ -17080,6 +17134,12 @@
     "guid": "76561198377311035"
    },
    {
+    "laptime": 114257,
+    "name": "ivanpucho30",
+    "laps": 5,
+    "guid": "76561198772601613"
+   },
+   {
     "laptime": 114311,
     "name": "2stopsbrighter",
     "laps": 4,
@@ -17308,6 +17368,12 @@
     "guid": "76561198979769974"
    },
    {
+    "laptime": 115153,
+    "name": "PATCRYT",
+    "laps": 1,
+    "guid": "76561199529217475"
+   },
+   {
     "laptime": 115159,
     "name": "Velicia",
     "laps": 3,
@@ -17354,6 +17420,12 @@
     "name": "xpietroxbo",
     "laps": 1,
     "guid": "76561199159748587"
+   },
+   {
+    "laptime": 115360,
+    "name": "HK-2023",
+    "laps": 2,
+    "guid": "76561198219855931"
    },
    {
     "laptime": 115371,
@@ -17816,6 +17888,12 @@
     "name": "Nextralis",
     "laps": 1,
     "guid": "76561198037539089"
+   },
+   {
+    "laptime": 118188,
+    "name": "DeliciusDuck",
+    "laps": 4,
+    "guid": "76561199173223760"
    },
    {
     "laptime": 118294,
