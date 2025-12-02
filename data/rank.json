@@ -1841,9 +1841,9 @@
  {
   "guid": "76561198002090430",
   "name": "trapitx",
-  "points": 779.042,
-  "kilometers": 5761.5,
-  "collisions": 213,
+  "points": 778.5600000000001,
+  "kilometers": 5776.4,
+  "collisions": 214,
   "leaderboard": {
    "ks_zandvoort_": {
     "tatuusfa1": {
@@ -1923,7 +1923,7 @@
     }
    }
   },
-  "last_seen": 1764693728252,
+  "last_seen": 1764694190160,
   "wins": 10,
   "podiums": 52,
   "poles": 4,
@@ -5050,9 +5050,9 @@
  {
   "guid": "76561198203278019",
   "name": "Lesiu",
-  "points": 279.593,
-  "kilometers": 748.2,
-  "collisions": 43,
+  "points": 287.436,
+  "kilometers": 770.4,
+  "collisions": 44,
   "leaderboard": {
    "ks_zandvoort_": {
     "tatuusfa1": {
@@ -5074,9 +5074,16 @@
      "laps": 30,
      "ts": 1764094103019
     }
+   },
+   "mugello_": {
+    "tatuusfa1": {
+     "laptime": 107065,
+     "laps": 2,
+     "ts": 1764694940671
+    }
    }
   },
-  "last_seen": 1764344074928,
+  "last_seen": 1764695113128,
   "wins": 6,
   "podiums": 20,
   "poles": 2,
