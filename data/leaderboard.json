@@ -11818,6 +11818,12 @@
     "guid": "76561198256412900"
    },
    {
+    "laptime": 106536,
+    "name": "Nassim",
+    "laps": 9,
+    "guid": "76561198074825226"
+   },
+   {
     "laptime": 106539,
     "name": "AndyQ",
     "laps": 8,
@@ -12062,12 +12068,6 @@
     "name": "Michał Massloch",
     "laps": 4,
     "guid": "76561198002013192"
-   },
-   {
-    "laptime": 106877,
-    "name": "Nassim",
-    "laps": 5,
-    "guid": "76561198074825226"
    },
    {
     "laptime": 106884,
@@ -14186,6 +14186,12 @@
     "name": "Proviews74",
     "laps": 21,
     "guid": "76561198873601550"
+   },
+   {
+    "laptime": 109397,
+    "name": "octocool",
+    "laps": 3,
+    "guid": "76561198049843203"
    },
    {
     "laptime": 109399,
