@@ -2721,8 +2721,8 @@
  {
   "guid": "76561198065243121",
   "name": "MisterFlappy",
-  "points": 586.414,
-  "kilometers": 8297.4,
+  "points": 586.306,
+  "kilometers": 8301.7,
   "collisions": 460,
   "leaderboard": {
    "mugello_": {
@@ -2810,7 +2810,7 @@
     }
    }
   },
-  "last_seen": 1764345617276,
+  "last_seen": 1764783448382,
   "wins": 39,
   "podiums": 81,
   "poles": 8,
@@ -5769,7 +5769,7 @@
     }
    }
   },
-  "last_seen": 1764782391265,
+  "last_seen": 1764782989138,
   "wins": 2,
   "podiums": 16,
   "poles": 1,
