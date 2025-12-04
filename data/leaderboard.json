@@ -11764,6 +11764,12 @@
     "guid": "76561198317499366"
    },
    {
+    "laptime": 106443,
+    "name": "BabyMirc",
+    "laps": 2,
+    "guid": "76561198208197457"
+   },
+   {
     "laptime": 106449,
     "name": "Lewis Senna Verstappen",
     "laps": 19,
@@ -12296,6 +12302,12 @@
     "name": "Yeti",
     "laps": 8,
     "guid": "76561199075153293"
+   },
+   {
+    "laptime": 107184,
+    "name": "Jernic",
+    "laps": 3,
+    "guid": "76561198345645867"
    },
    {
     "laptime": 107194,
@@ -12872,12 +12884,6 @@
     "name": "oldielars",
     "laps": 16,
     "guid": "76561199595453355"
-   },
-   {
-    "laptime": 107980,
-    "name": "BabyMirc",
-    "laps": 1,
-    "guid": "76561198208197457"
    },
    {
     "laptime": 107983,
@@ -14798,6 +14804,12 @@
     "name": "drengiba",
     "laps": 3,
     "guid": "76561199230206363"
+   },
+   {
+    "laptime": 110024,
+    "name": "Gerhard Mitter",
+    "laps": 2,
+    "guid": "76561198166834462"
    },
    {
     "laptime": 110028,
@@ -19262,6 +19274,12 @@
     "name": "DiogoFrost01",
     "laps": 1,
     "guid": "76561198887639485"
+   },
+   {
+    "laptime": 121494,
+    "name": "Limbo",
+    "laps": 1,
+    "guid": "76561198039682719"
    },
    {
     "laptime": 121694,
