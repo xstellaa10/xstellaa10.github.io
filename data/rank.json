@@ -8465,8 +8465,8 @@
  {
   "guid": "76561198399478476",
   "name": "SimiThePro",
-  "points": 144.176,
-  "kilometers": 816.9,
+  "points": 144.14,
+  "kilometers": 815.4,
   "collisions": 64,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -8491,7 +8491,7 @@
     }
    }
   },
-  "last_seen": 1764793778685,
+  "last_seen": 1764865731120,
   "wins": 1,
   "podiums": 4,
   "poles": 4,
@@ -13572,8 +13572,8 @@
  {
   "guid": "76561199406901889",
   "name": "Mar Brev 66",
-  "points": 89.162,
-  "kilometers": 605.3,
+  "points": 89.126,
+  "kilometers": 612,
   "collisions": 26,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -13598,7 +13598,7 @@
     }
    }
   },
-  "last_seen": 1764863301263,
+  "last_seen": 1764863892172,
   "wins": 1,
   "podiums": 5,
   "poles": 1,
@@ -50236,6 +50236,21 @@
   "leaderboard": {
   },
   "last_seen": 1764792453513,
+  "wins": 0,
+  "podiums": 0,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 0
+ },
+ {
+  "guid": "76561198860463132",
+  "name": "De_Santa13",
+  "points": 50,
+  "kilometers": 6,
+  "collisions": 0,
+  "leaderboard": {
+  },
+  "last_seen": 1764863672195,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
