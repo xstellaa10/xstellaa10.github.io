@@ -13840,6 +13840,12 @@
     "guid": "76561198015652003"
    },
    {
+    "laptime": 108843,
+    "name": "MisterFlappy",
+    "laps": 21,
+    "guid": "76561198065243121"
+   },
+   {
     "laptime": 108846,
     "name": "eduej8",
     "laps": 6,
@@ -14462,12 +14468,6 @@
     "name": "divyx",
     "laps": 1,
     "guid": "76561198296426687"
-   },
-   {
-    "laptime": 109423,
-    "name": "MisterFlappy",
-    "laps": 15,
-    "guid": "76561198065243121"
    },
    {
     "laptime": 109443,
