@@ -11266,6 +11266,12 @@
     "guid": "76561198208023015"
    },
    {
+    "laptime": 105080,
+    "name": "Mark Lyons",
+    "laps": 33,
+    "guid": "76561198098029574"
+   },
+   {
     "laptime": 105184,
     "name": "NavJax8",
     "laps": 61,
@@ -11342,12 +11348,6 @@
     "name": "BabyMirc",
     "laps": 24,
     "guid": "76561198208197457"
-   },
-   {
-    "laptime": 105581,
-    "name": "Mark Lyons",
-    "laps": 26,
-    "guid": "76561198098029574"
    },
    {
     "laptime": 105586,
@@ -11794,6 +11794,12 @@
     "guid": "76561198317499366"
    },
    {
+    "laptime": 106447,
+    "name": "stemix",
+    "laps": 70,
+    "guid": "76561199030345527"
+   },
+   {
     "laptime": 106449,
     "name": "Lewis Senna Verstappen",
     "laps": 19,
@@ -11960,12 +11966,6 @@
     "name": "Jean Jaques",
     "laps": 18,
     "guid": "76561198120575245"
-   },
-   {
-    "laptime": 106663,
-    "name": "stemix",
-    "laps": 64,
-    "guid": "76561199030345527"
    },
    {
     "laptime": 106665,
@@ -15374,6 +15374,12 @@
     "name": "Pit-Driver",
     "laps": 10,
     "guid": "76561199573266671"
+   },
+   {
+    "laptime": 110277,
+    "name": "PhilifTV",
+    "laps": 3,
+    "guid": "76561199104336385"
    },
    {
     "laptime": 110288,
