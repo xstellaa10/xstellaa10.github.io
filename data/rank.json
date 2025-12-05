@@ -2920,8 +2920,8 @@
  {
   "guid": "76561198303463231",
   "name": "Kahl",
-  "points": 552.077,
-  "kilometers": 3313,
+  "points": 557.795,
+  "kilometers": 3355,
   "collisions": 123,
   "leaderboard": {
    "monza_": {
@@ -2934,8 +2934,8 @@
    "mugello_": {
     "tatuusfa1": {
      "laptime": 105661,
-     "laps": 94,
-     "ts": 1764616125845
+     "laps": 100,
+     "ts": 1764955137689
     }
    },
    "ks_barcelona_layout_gp": {
@@ -2988,11 +2988,11 @@
     }
    }
   },
-  "last_seen": 1764616234518,
-  "wins": 15,
-  "podiums": 38,
+  "last_seen": 1764955229410,
+  "wins": 16,
+  "podiums": 39,
   "poles": 14,
-  "flaps": 10,
+  "flaps": 11,
   "infr": 3
  },
  {
@@ -5021,7 +5021,7 @@
  {
   "guid": "76561198017060736",
   "name": "Beerbelly (Anfielder)",
-  "points": 295.25800000000004,
+  "points": 298.75600000000003,
   "kilometers": 1381.9,
   "collisions": 66,
   "leaderboard": {
@@ -5083,10 +5083,10 @@
    }
   },
   "last_seen": 1764953662187,
-  "wins": 6,
-  "podiums": 16,
+  "wins": 7,
+  "podiums": 17,
   "poles": 1,
-  "flaps": 3,
+  "flaps": 4,
   "infr": 3
  },
  {
@@ -8119,6 +8119,56 @@
   "infr": 4
  },
  {
+  "guid": "76561198053591203",
+  "name": "Jean Kulki",
+  "points": 156.892,
+  "kilometers": 2276.9,
+  "collisions": 95,
+  "leaderboard": {
+   "ks_silverstone_gp": {
+    "tatuusfa1": {
+     "laptime": 120152,
+     "laps": 69,
+     "ts": 1760728740773
+    }
+   },
+   "imola_": {
+    "tatuusfa1": {
+     "laptime": 106457,
+     "laps": 3,
+     "ts": 1761329047910
+    }
+   },
+   "spa_": {
+    "tatuusfa1": {
+     "laptime": 142533,
+     "laps": 2,
+     "ts": 1761592492030
+    }
+   },
+   "ks_barcelona_layout_moto": {
+    "tatuusfa1": {
+     "laptime": 100665,
+     "laps": 50,
+     "ts": 1764538036220
+    }
+   },
+   "mugello_": {
+    "tatuusfa1": {
+     "laptime": 107165,
+     "laps": 13,
+     "ts": 1764955014967
+    }
+   }
+  },
+  "last_seen": 1764955229410,
+  "wins": 6,
+  "podiums": 10,
+  "poles": 5,
+  "flaps": 2,
+  "infr": 9
+ },
+ {
   "guid": "76561198072678773",
   "name": "DIAZ  SPAIN",
   "points": 156.81699999999998,
@@ -8195,56 +8245,6 @@
   "poles": 0,
   "flaps": 0,
   "infr": 16
- },
- {
-  "guid": "76561198053591203",
-  "name": "Jean Kulki",
-  "points": 156.60000000000002,
-  "kilometers": 2273,
-  "collisions": 95,
-  "leaderboard": {
-   "ks_silverstone_gp": {
-    "tatuusfa1": {
-     "laptime": 120152,
-     "laps": 69,
-     "ts": 1760728740773
-    }
-   },
-   "imola_": {
-    "tatuusfa1": {
-     "laptime": 106457,
-     "laps": 3,
-     "ts": 1761329047910
-    }
-   },
-   "spa_": {
-    "tatuusfa1": {
-     "laptime": 142533,
-     "laps": 2,
-     "ts": 1761592492030
-    }
-   },
-   "ks_barcelona_layout_moto": {
-    "tatuusfa1": {
-     "laptime": 100665,
-     "laps": 50,
-     "ts": 1764538036220
-    }
-   },
-   "mugello_": {
-    "tatuusfa1": {
-     "laptime": 107165,
-     "laps": 12,
-     "ts": 1764714086688
-    }
-   }
-  },
-  "last_seen": 1764714315534,
-  "wins": 6,
-  "podiums": 10,
-  "poles": 5,
-  "flaps": 2,
-  "infr": 9
  },
  {
   "guid": "76561197978760481",
@@ -16377,6 +16377,49 @@
   "infr": 0
  },
  {
+  "guid": "76561198058378519",
+  "name": "Oblak",
+  "points": 79.042,
+  "kilometers": 480.1,
+  "collisions": 28,
+  "leaderboard": {
+   "ks_laguna_seca_": {
+    "tatuusfa1": {
+     "laptime": 84374,
+     "laps": 13,
+     "ts": 1760204259951
+    }
+   },
+   "ks_silverstone_gp": {
+    "tatuusfa1": {
+     "laptime": 127745,
+     "laps": 1,
+     "ts": 1760277634552
+    }
+   },
+   "imola_": {
+    "tatuusfa1": {
+     "laptime": 108663,
+     "laps": 9,
+     "ts": 1761490109787
+    }
+   },
+   "mugello_": {
+    "tatuusfa1": {
+     "laptime": 109118,
+     "laps": 12,
+     "ts": 1764954736049
+    }
+   }
+  },
+  "last_seen": 1764954934138,
+  "wins": 1,
+  "podiums": 3,
+  "poles": 0,
+  "flaps": 1,
+  "infr": 0
+ },
+ {
   "guid": "76561198998002022",
   "name": "Quentin",
   "points": 78.943,
@@ -17320,49 +17363,6 @@
   "podiums": 1,
   "poles": 0,
   "flaps": 0,
-  "infr": 0
- },
- {
-  "guid": "76561198058378519",
-  "name": "Oblak",
-  "points": 75.89,
-  "kilometers": 435,
-  "collisions": 24,
-  "leaderboard": {
-   "ks_laguna_seca_": {
-    "tatuusfa1": {
-     "laptime": 84374,
-     "laps": 13,
-     "ts": 1760204259951
-    }
-   },
-   "ks_silverstone_gp": {
-    "tatuusfa1": {
-     "laptime": 127745,
-     "laps": 1,
-     "ts": 1760277634552
-    }
-   },
-   "imola_": {
-    "tatuusfa1": {
-     "laptime": 108663,
-     "laps": 9,
-     "ts": 1761490109787
-    }
-   },
-   "mugello_": {
-    "tatuusfa1": {
-     "laptime": 109662,
-     "laps": 9,
-     "ts": 1764953600115
-    }
-   }
-  },
-  "last_seen": 1764953715336,
-  "wins": 1,
-  "podiums": 3,
-  "poles": 0,
-  "flaps": 1,
   "infr": 0
  },
  {
