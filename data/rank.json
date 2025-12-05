@@ -5021,8 +5021,8 @@
  {
   "guid": "76561198017060736",
   "name": "Beerbelly (Anfielder)",
-  "points": 293.158,
-  "kilometers": 1349.2,
+  "points": 295.25800000000004,
+  "kilometers": 1381.9,
   "collisions": 66,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -5042,8 +5042,8 @@
    "mugello_": {
     "tatuusfa1": {
      "laptime": 106022,
-     "laps": 29,
-     "ts": 1764952855109
+     "laps": 34,
+     "ts": 1764953623748
     }
    },
    "ks_barcelona_layout_gp": {
@@ -5082,7 +5082,7 @@
     }
    }
   },
-  "last_seen": 1764952926220,
+  "last_seen": 1764953662187,
   "wins": 6,
   "podiums": 16,
   "poles": 1,
@@ -17325,9 +17325,9 @@
  {
   "guid": "76561198058378519",
   "name": "Oblak",
-  "points": 75.81400000000001,
-  "kilometers": 412.4,
-  "collisions": 21,
+  "points": 75.89,
+  "kilometers": 435,
+  "collisions": 24,
   "leaderboard": {
    "ks_laguna_seca_": {
     "tatuusfa1": {
@@ -17353,12 +17353,12 @@
    "mugello_": {
     "tatuusfa1": {
      "laptime": 109662,
-     "laps": 8,
-     "ts": 1764874905114
+     "laps": 9,
+     "ts": 1764953600115
     }
    }
   },
-  "last_seen": 1764875174416,
+  "last_seen": 1764953715336,
   "wins": 1,
   "podiums": 3,
   "poles": 0,
@@ -56453,11 +56453,11 @@
   "guid": "76561198198338333",
   "name": "Luki",
   "points": 49.628,
-  "kilometers": 2.9,
+  "kilometers": 9.2,
   "collisions": 0,
   "leaderboard": {
   },
-  "last_seen": 1764952926220,
+  "last_seen": 1764953111931,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
