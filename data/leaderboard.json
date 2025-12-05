@@ -12232,6 +12232,12 @@
     "guid": "76561198362455546"
    },
    {
+    "laptime": 106962,
+    "name": "Matteo Battiston",
+    "laps": 1,
+    "guid": "76561199122236726"
+   },
+   {
     "laptime": 106963,
     "name": "Thomks Smith",
     "laps": 9,
@@ -12326,6 +12332,12 @@
     "name": "Juan Poletto",
     "laps": 4,
     "guid": "76561199206405538"
+   },
+   {
+    "laptime": 107120,
+    "name": "Checo Poorez",
+    "laps": 2,
+    "guid": "76561198337751069"
    },
    {
     "laptime": 107126,
@@ -12808,6 +12820,18 @@
     "guid": "76561198139102398"
    },
    {
+    "laptime": 107816,
+    "name": "Rokas",
+    "laps": 11,
+    "guid": "76561198826743765"
+   },
+   {
+    "laptime": 107816,
+    "name": "babapıroefe",
+    "laps": 2,
+    "guid": "76561198858319988"
+   },
+   {
     "laptime": 107822,
     "name": "1kS",
     "laps": 5,
@@ -12848,12 +12872,6 @@
     "name": "Florian.G",
     "laps": 1,
     "guid": "76561199014881545"
-   },
-   {
-    "laptime": 107864,
-    "name": "Rokas",
-    "laps": 8,
-    "guid": "76561198826743765"
    },
    {
     "laptime": 107875,
@@ -14296,12 +14314,6 @@
     "guid": "76561199183347340"
    },
    {
-    "laptime": 109277,
-    "name": "babapıroefe",
-    "laps": 1,
-    "guid": "76561198858319988"
-   },
-   {
     "laptime": 109279,
     "name": "swudo",
     "laps": 2,
@@ -15178,12 +15190,6 @@
     "guid": "76561198402016263"
    },
    {
-    "laptime": 110160,
-    "name": "Checo Poorez",
-    "laps": 1,
-    "guid": "76561198337751069"
-   },
-   {
     "laptime": 110179,
     "name": "Roberto Artioli",
     "laps": 6,
@@ -15976,6 +15982,12 @@
     "guid": "76561198195792427"
    },
    {
+    "laptime": 110915,
+    "name": "Dark_Enma",
+    "laps": 2,
+    "guid": "76561198996859261"
+   },
+   {
     "laptime": 110922,
     "name": "Michael  Barnett",
     "laps": 3,
@@ -16250,6 +16262,12 @@
     "name": "regarded",
     "laps": 6,
     "guid": "76561199568134172"
+   },
+   {
+    "laptime": 111167,
+    "name": "Valou59RBX",
+    "laps": 2,
+    "guid": "76561198408096622"
    },
    {
     "laptime": 111172,
@@ -19750,6 +19768,12 @@
     "guid": "76561199135553041"
    },
    {
+    "laptime": 119396,
+    "name": "balillino",
+    "laps": 1,
+    "guid": "76561198214123867"
+   },
+   {
     "laptime": 119443,
     "name": "Nooitgedacht",
     "laps": 1,
@@ -19916,12 +19940,6 @@
     "name": "GV.",
     "laps": 1,
     "guid": "76561198992077355"
-   },
-   {
-    "laptime": 121939,
-    "name": "Dark_Enma",
-    "laps": 1,
-    "guid": "76561198996859261"
    },
    {
     "laptime": 122035,
