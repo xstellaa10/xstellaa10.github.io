@@ -1459,8 +1459,8 @@
  {
   "guid": "76561197986606289",
   "name": "Chaloem",
-  "points": 930.509,
-  "kilometers": 6558.5,
+  "points": 930.192,
+  "kilometers": 6559.2,
   "collisions": 201,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -1548,7 +1548,7 @@
     }
    }
   },
-  "last_seen": 1764545795295,
+  "last_seen": 1764962047318,
   "wins": 31,
   "podiums": 58,
   "poles": 37,
@@ -2664,15 +2664,15 @@
  {
   "guid": "76561198065243121",
   "name": "MisterFlappy",
-  "points": 608.777,
-  "kilometers": 8583.8,
-  "collisions": 476,
+  "points": 608.865,
+  "kilometers": 8607,
+  "collisions": 477,
   "leaderboard": {
    "mugello_": {
     "tatuusfa1": {
-     "laptime": 108166,
-     "laps": 29,
-     "ts": 1764961022120
+     "laptime": 108120,
+     "laps": 31,
+     "ts": 1764961776307
     }
    },
    "ks_barcelona_layout_gp": {
@@ -2753,7 +2753,7 @@
     }
    }
   },
-  "last_seen": 1764961304337,
+  "last_seen": 1764962047318,
   "wins": 39,
   "podiums": 83,
   "poles": 8,
@@ -2820,8 +2820,8 @@
  {
   "guid": "76561198303463231",
   "name": "Kahl",
-  "points": 594.302,
-  "kilometers": 3574.8,
+  "points": 595.2620000000001,
+  "kilometers": 3601,
   "collisions": 123,
   "leaderboard": {
    "monza_": {
@@ -2834,8 +2834,8 @@
    "mugello_": {
     "tatuusfa1": {
      "laptime": 105613,
-     "laps": 133,
-     "ts": 1764961213339
+     "laps": 136,
+     "ts": 1764961933286
     }
    },
    "ks_barcelona_layout_gp": {
@@ -2888,7 +2888,7 @@
     }
    }
   },
-  "last_seen": 1764961304337,
+  "last_seen": 1764962047318,
   "wins": 20,
   "podiums": 43,
   "poles": 15,
@@ -9381,15 +9381,15 @@
  {
   "guid": "76561199030345527",
   "name": "stemix",
-  "points": 132.498,
-  "kilometers": 1153.8,
+  "points": 132.595,
+  "kilometers": 1165.2,
   "collisions": 96,
   "leaderboard": {
    "mugello_": {
     "tatuusfa1": {
      "laptime": 107850,
-     "laps": 33,
-     "ts": 1764890798803
+     "laps": 34,
+     "ts": 1764961811240
     }
    },
    "ks_nurburgring_layout_gp_b": {
@@ -9414,7 +9414,7 @@
     }
    }
   },
-  "last_seen": 1764961304337,
+  "last_seen": 1764962047318,
   "wins": 2,
   "podiums": 11,
   "poles": 0,
