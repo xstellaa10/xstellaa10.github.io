@@ -11650,6 +11650,12 @@
     "guid": "76561198277908651"
    },
    {
+    "laptime": 106113,
+    "name": "Michal Vychodil",
+    "laps": 61,
+    "guid": "76561198029844869"
+   },
+   {
     "laptime": 106137,
     "name": "Mohammad Alsharawneh",
     "laps": 12,
@@ -11846,12 +11852,6 @@
     "name": "Spol41",
     "laps": 4,
     "guid": "76561198277949117"
-   },
-   {
-    "laptime": 106436,
-    "name": "Michal Vychodil",
-    "laps": 40,
-    "guid": "76561198029844869"
    },
    {
     "laptime": 106441,
@@ -12620,6 +12620,12 @@
     "name": "okajima",
     "laps": 100,
     "guid": "76561199479560632"
+   },
+   {
+    "laptime": 107476,
+    "name": "Nods",
+    "laps": 3,
+    "guid": "76561198275260857"
    },
    {
     "laptime": 107481,
@@ -16186,12 +16192,6 @@
     "guid": "76561198061055913"
    },
    {
-    "laptime": 110708,
-    "name": "Nods",
-    "laps": 1,
-    "guid": "76561198275260857"
-   },
-   {
     "laptime": 110712,
     "name": "axel.fernqvist",
     "laps": 3,
@@ -17414,6 +17414,12 @@
     "name": "Thomas",
     "laps": 1,
     "guid": "76561198068548047"
+   },
+   {
+    "laptime": 111847,
+    "name": "Lion",
+    "laps": 1,
+    "guid": "76561199395728632"
    },
    {
     "laptime": 111849,
@@ -18754,6 +18760,12 @@
     "guid": "76561199556638761"
    },
    {
+    "laptime": 113437,
+    "name": "pierpaoloderario3",
+    "laps": 3,
+    "guid": "76561199224379973"
+   },
+   {
     "laptime": 113441,
     "name": "Brunxer_Wer",
     "laps": 2,
@@ -19070,6 +19082,12 @@
     "name": "Ragingdude121",
     "laps": 1,
     "guid": "76561199148313583"
+   },
+   {
+    "laptime": 114073,
+    "name": "Nixi",
+    "laps": 11,
+    "guid": "76561199489307159"
    },
    {
     "laptime": 114083,
@@ -20164,12 +20182,6 @@
     "guid": "76561199715022934"
    },
    {
-    "laptime": 117587,
-    "name": "Nixi",
-    "laps": 6,
-    "guid": "76561199489307159"
-   },
-   {
     "laptime": 117601,
     "name": "Marcos07ovd",
     "laps": 1,
@@ -20180,6 +20192,12 @@
     "name": "kaikytayll",
     "laps": 1,
     "guid": "76561198793963864"
+   },
+   {
+    "laptime": 117626,
+    "name": "kürtavcısı",
+    "laps": 5,
+    "guid": "76561199481203521"
    },
    {
     "laptime": 117637,
@@ -20678,12 +20696,6 @@
     "name": "JOKOBA",
     "laps": 1,
     "guid": "76561199384795737"
-   },
-   {
-    "laptime": 121308,
-    "name": "kürtavcısı",
-    "laps": 1,
-    "guid": "76561199481203521"
    },
    {
     "laptime": 121487,
