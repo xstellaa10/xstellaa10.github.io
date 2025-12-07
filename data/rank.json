@@ -1647,7 +1647,7 @@
     }
    }
   },
-  "last_seen": 1765082372466,
+  "last_seen": 1765082374361,
   "wins": 36,
   "podiums": 53,
   "poles": 38,
@@ -4577,7 +4577,7 @@
     }
    }
   },
-  "last_seen": 1764975129141,
+  "last_seen": 1765102789726,
   "wins": 46,
   "podiums": 108,
   "poles": 66,
@@ -56879,6 +56879,21 @@
   "leaderboard": {
   },
   "last_seen": 1763832396160,
+  "wins": 0,
+  "podiums": 0,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 0
+ },
+ {
+  "guid": "76561199781045188",
+  "name": "deduliagulenok",
+  "points": 49.855,
+  "kilometers": 4.3,
+  "collisions": 1,
+  "leaderboard": {
+  },
+  "last_seen": 1765096567299,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
