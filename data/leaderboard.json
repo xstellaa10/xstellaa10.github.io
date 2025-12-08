@@ -43184,6 +43184,12 @@
     "guid": "76561198134870673"
    },
    {
+    "laptime": 85347,
+    "name": "keulers13",
+    "laps": 3,
+    "guid": "76561198870830103"
+   },
+   {
     "laptime": 85357,
     "name": "CRJ",
     "laps": 5,
@@ -43254,6 +43260,12 @@
     "name": "Justin Darlow",
     "laps": 1,
     "guid": "76561198085271447"
+   },
+   {
+    "laptime": 86017,
+    "name": "Isaac X",
+    "laps": 6,
+    "guid": "76561199142355032"
    },
    {
     "laptime": 86026,
@@ -43422,12 +43434,6 @@
     "name": "hazardegamer",
     "laps": 6,
     "guid": "76561199554937310"
-   },
-   {
-    "laptime": 88677,
-    "name": "Isaac X",
-    "laps": 3,
-    "guid": "76561199142355032"
    },
    {
     "laptime": 88812,
