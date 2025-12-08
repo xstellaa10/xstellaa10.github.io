@@ -42746,16 +42746,16 @@
     "guid": "76561198016379386"
    },
    {
+    "laptime": 81260,
+    "name": "Subinator",
+    "laps": 19,
+    "guid": "76561198028779531"
+   },
+   {
     "laptime": 81433,
     "name": "Fancy Natra",
     "laps": 16,
     "guid": "76561198028884703"
-   },
-   {
-    "laptime": 81512,
-    "name": "Subinator",
-    "laps": 11,
-    "guid": "76561198028779531"
    },
    {
     "laptime": 81767,
@@ -43280,6 +43280,12 @@
     "guid": "76561199075153293"
    },
    {
+    "laptime": 86216,
+    "name": "Davide Brion",
+    "laps": 1,
+    "guid": "76561198041867944"
+   },
+   {
     "laptime": 86255,
     "name": "Onur Suzen",
     "laps": 1,
@@ -43416,6 +43422,12 @@
     "name": "hazardegamer",
     "laps": 6,
     "guid": "76561199554937310"
+   },
+   {
+    "laptime": 88677,
+    "name": "Isaac X",
+    "laps": 3,
+    "guid": "76561199142355032"
    },
    {
     "laptime": 88812,

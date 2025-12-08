@@ -744,8 +744,8 @@
  {
   "guid": "76561198028779531",
   "name": "Subinator",
-  "points": 1596.041,
-  "kilometers": 7797.7,
+  "points": 1606.894,
+  "kilometers": 7835.4,
   "collisions": 126,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -820,17 +820,17 @@
    },
    "ks_brands_hatch_gp": {
     "tatuusfa1": {
-     "laptime": 81512,
-     "laps": 12,
-     "ts": 1765210807625
+     "laptime": 81260,
+     "laps": 21,
+     "ts": 1765212818938
     }
    }
   },
-  "last_seen": 1765211574713,
-  "wins": 87,
-  "podiums": 132,
+  "last_seen": 1765212909185,
+  "wins": 88,
+  "podiums": 133,
   "poles": 42,
-  "flaps": 40,
+  "flaps": 41,
   "infr": 12
  },
  {
@@ -21262,6 +21262,35 @@
   "infr": 2
  },
  {
+  "guid": "76561199142355032",
+  "name": "Isaac X",
+  "points": 69.53,
+  "kilometers": 277,
+  "collisions": 42,
+  "leaderboard": {
+   "mugello_": {
+    "tatuusfa1": {
+     "laptime": 109725,
+     "laps": 30,
+     "ts": 1764879603581
+    }
+   },
+   "ks_brands_hatch_gp": {
+    "tatuusfa1": {
+     "laptime": 88677,
+     "laps": 4,
+     "ts": 1765212866262
+    }
+   }
+  },
+  "last_seen": 1765212909185,
+  "wins": 1,
+  "podiums": 2,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 3
+ },
+ {
   "guid": "76561198018389693",
   "name": "Frank",
   "points": 69.505,
@@ -27833,28 +27862,6 @@
   "infr": 0
  },
  {
-  "guid": "76561199142355032",
-  "name": "Isaac X",
-  "points": 61.403000000000006,
-  "kilometers": 257.5,
-  "collisions": 41,
-  "leaderboard": {
-   "mugello_": {
-    "tatuusfa1": {
-     "laptime": 109725,
-     "laps": 30,
-     "ts": 1764879603581
-    }
-   }
-  },
-  "last_seen": 1765208650666,
-  "wins": 1,
-  "podiums": 1,
-  "poles": 0,
-  "flaps": 0,
-  "infr": 3
- },
- {
   "guid": "76561198133802299",
   "name": ".THS. Gamingkek",
   "points": 61.396,
@@ -32543,6 +32550,35 @@
   "poles": 0,
   "flaps": 0,
   "infr": 0
+ },
+ {
+  "guid": "76561198041867944",
+  "name": "Davide Brion",
+  "points": 57.813,
+  "kilometers": 135.9,
+  "collisions": 27,
+  "leaderboard": {
+   "mugello_": {
+    "tatuusfa1": {
+     "laptime": 106006,
+     "laps": 16,
+     "ts": 1764881896157
+    }
+   },
+   "ks_brands_hatch_gp": {
+    "tatuusfa1": {
+     "laptime": 86216,
+     "laps": 1,
+     "ts": 1765212617226
+    }
+   }
+  },
+  "last_seen": 1765212909185,
+  "wins": 0,
+  "podiums": 1,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 3
  },
  {
   "guid": "76561199095602119",
@@ -39228,28 +39264,6 @@
   "poles": 0,
   "flaps": 0,
   "infr": 0
- },
- {
-  "guid": "76561198041867944",
-  "name": "Davide Brion",
-  "points": 54.861999999999995,
-  "kilometers": 117.4,
-  "collisions": 23,
-  "leaderboard": {
-   "mugello_": {
-    "tatuusfa1": {
-     "laptime": 106006,
-     "laps": 16,
-     "ts": 1764881896157
-    }
-   }
-  },
-  "last_seen": 1765035425884,
-  "wins": 0,
-  "podiums": 1,
-  "poles": 0,
-  "flaps": 0,
-  "infr": 3
  },
  {
   "guid": "76561199096163723",
