@@ -8103,7 +8103,7 @@
     }
    }
   },
-  "last_seen": 1765214227182,
+  "last_seen": 1765214232292,
   "wins": 2,
   "podiums": 5,
   "poles": 0,
@@ -8676,9 +8676,45 @@
   "infr": 5
  },
  {
+  "guid": "76561198399478476",
+  "name": "SimiThePro",
+  "points": 149.962,
+  "kilometers": 870.4,
+  "collisions": 70,
+  "leaderboard": {
+   "ks_zandvoort_": {
+    "tatuusfa1": {
+     "laptime": 94877,
+     "laps": 61,
+     "ts": 1763230237291
+    }
+   },
+   "ks_barcelona_layout_moto": {
+    "tatuusfa1": {
+     "laptime": 100426,
+     "laps": 6,
+     "ts": 1764104221461
+    }
+   },
+   "mugello_": {
+    "tatuusfa1": {
+     "laptime": 106083,
+     "laps": 32,
+     "ts": 1764868695464
+    }
+   }
+  },
+  "last_seen": 1764868701918,
+  "wins": 1,
+  "podiums": 5,
+  "poles": 4,
+  "flaps": 4,
+  "infr": 1
+ },
+ {
   "guid": "76561198795097746",
   "name": "joshpitts123",
-  "points": 150.187,
+  "points": 149.887,
   "kilometers": 985.1,
   "collisions": 50,
   "leaderboard": {
@@ -8739,48 +8775,12 @@
     }
    }
   },
-  "last_seen": 1764787943045,
+  "last_seen": 1765215012051,
   "wins": 0,
   "podiums": 8,
   "poles": 0,
   "flaps": 0,
   "infr": 4
- },
- {
-  "guid": "76561198399478476",
-  "name": "SimiThePro",
-  "points": 149.962,
-  "kilometers": 870.4,
-  "collisions": 70,
-  "leaderboard": {
-   "ks_zandvoort_": {
-    "tatuusfa1": {
-     "laptime": 94877,
-     "laps": 61,
-     "ts": 1763230237291
-    }
-   },
-   "ks_barcelona_layout_moto": {
-    "tatuusfa1": {
-     "laptime": 100426,
-     "laps": 6,
-     "ts": 1764104221461
-    }
-   },
-   "mugello_": {
-    "tatuusfa1": {
-     "laptime": 106083,
-     "laps": 32,
-     "ts": 1764868695464
-    }
-   }
-  },
-  "last_seen": 1764868701918,
-  "wins": 1,
-  "podiums": 5,
-  "poles": 4,
-  "flaps": 4,
-  "infr": 1
  },
  {
   "guid": "76561199002879750",
@@ -18972,35 +18972,6 @@
   "infr": 0
  },
  {
-  "guid": "76561199142355032",
-  "name": "Isaac X",
-  "points": 73.674,
-  "kilometers": 294.5,
-  "collisions": 50,
-  "leaderboard": {
-   "mugello_": {
-    "tatuusfa1": {
-     "laptime": 109725,
-     "laps": 30,
-     "ts": 1764879603581
-    }
-   },
-   "ks_brands_hatch_gp": {
-    "tatuusfa1": {
-     "laptime": 86017,
-     "laps": 7,
-     "ts": 1765213945323
-    }
-   }
-  },
-  "last_seen": 1765214070075,
-  "wins": 1,
-  "podiums": 2,
-  "poles": 0,
-  "flaps": 0,
-  "infr": 4
- },
- {
   "guid": "76561198133981808",
   "name": "_RRT_ Claudio stefa",
   "points": 73.666,
@@ -20925,6 +20896,35 @@
   "poles": 1,
   "flaps": 1,
   "infr": 0
+ },
+ {
+  "guid": "76561199142355032",
+  "name": "Isaac X",
+  "points": 69.98400000000001,
+  "kilometers": 297.8,
+  "collisions": 55,
+  "leaderboard": {
+   "mugello_": {
+    "tatuusfa1": {
+     "laptime": 109725,
+     "laps": 30,
+     "ts": 1764879603581
+    }
+   },
+   "ks_brands_hatch_gp": {
+    "tatuusfa1": {
+     "laptime": 86017,
+     "laps": 7,
+     "ts": 1765213945323
+    }
+   }
+  },
+  "last_seen": 1765215012051,
+  "wins": 1,
+  "podiums": 2,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 4
  },
  {
   "guid": "76561198333732191",
