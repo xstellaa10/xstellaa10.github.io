@@ -850,7 +850,7 @@
  {
   "guid": "76561198028779531",
   "name": "Subinator",
-  "points": 1609.435,
+  "points": 1609.135,
   "kilometers": 7913,
   "collisions": 133,
   "leaderboard": {
@@ -932,7 +932,7 @@
     }
    }
   },
-  "last_seen": 1765298016350,
+  "last_seen": 1765378281890,
   "wins": 88,
   "podiums": 134,
   "poles": 42,
@@ -36965,28 +36965,6 @@
   "infr": 0
  },
  {
-  "guid": "76561199808100604",
-  "name": "tedin1_",
-  "points": 56.286,
-  "kilometers": 357,
-  "collisions": 57,
-  "leaderboard": {
-   "mugello_": {
-    "tatuusfa1": {
-     "laptime": 110022,
-     "laps": 46,
-     "ts": 1765046900230
-    }
-   }
-  },
-  "last_seen": 1765302169670,
-  "wins": 0,
-  "podiums": 0,
-  "poles": 0,
-  "flaps": 0,
-  "infr": 4
- },
- {
   "guid": "76561198035646361",
   "name": "Nilssite KR #95",
   "points": 56.285,
@@ -40203,6 +40181,28 @@
   "infr": 0
  },
  {
+  "guid": "76561199808100604",
+  "name": "tedin1_",
+  "points": 54.86,
+  "kilometers": 354.7,
+  "collisions": 61,
+  "leaderboard": {
+   "mugello_": {
+    "tatuusfa1": {
+     "laptime": 110022,
+     "laps": 46,
+     "ts": 1765046900230
+    }
+   }
+  },
+  "last_seen": 1765378158731,
+  "wins": 0,
+  "podiums": 0,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 4
+ },
+ {
   "guid": "76561199096163723",
   "name": "Diguin7",
   "points": 54.855,
@@ -42922,6 +42922,28 @@
   "last_seen": 1765066594894,
   "wins": 0,
   "podiums": 0,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 0
+ },
+ {
+  "guid": "76561198119214913",
+  "name": "Andrea Aliperti",
+  "points": 53.794000000000004,
+  "kilometers": 83.1,
+  "collisions": 5,
+  "leaderboard": {
+   "ks_brands_hatch_gp": {
+    "tatuusfa1": {
+     "laptime": 83846,
+     "laps": 17,
+     "ts": 1765377835459
+    }
+   }
+  },
+  "last_seen": 1765378281890,
+  "wins": 1,
+  "podiums": 1,
   "poles": 0,
   "flaps": 0,
   "infr": 0
@@ -50796,28 +50818,6 @@
   "infr": 0
  },
  {
-  "guid": "76561198119214913",
-  "name": "Andrea Aliperti",
-  "points": 51.611000000000004,
-  "kilometers": 55.8,
-  "collisions": 1,
-  "leaderboard": {
-   "ks_brands_hatch_gp": {
-    "tatuusfa1": {
-     "laptime": 84225,
-     "laps": 12,
-     "ts": 1765377117930
-    }
-   }
-  },
-  "last_seen": 1765377293213,
-  "wins": 0,
-  "podiums": 0,
-  "poles": 0,
-  "flaps": 0,
-  "infr": 0
- },
- {
   "guid": "76561198075646684",
   "name": "Huset",
   "points": 51.61,
@@ -51441,28 +51441,6 @@
    }
   },
   "last_seen": 1763405892254,
-  "wins": 0,
-  "podiums": 0,
-  "poles": 0,
-  "flaps": 0,
-  "infr": 0
- },
- {
-  "guid": "76561198310050805",
-  "name": "Simone",
-  "points": 51.397000000000006,
-  "kilometers": 3.7,
-  "collisions": 3,
-  "leaderboard": {
-   "ks_brands_hatch_gp": {
-    "tatuusfa1": {
-     "laptime": 84393,
-     "laps": 1,
-     "ts": 1765377148079
-    }
-   }
-  },
-  "last_seen": 1765377293213,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
@@ -59124,6 +59102,28 @@
   "poles": 0,
   "flaps": 0,
   "infr": 5
+ },
+ {
+  "guid": "76561198310050805",
+  "name": "Simone",
+  "points": 49.865,
+  "kilometers": 10.6,
+  "collisions": 6,
+  "leaderboard": {
+   "ks_brands_hatch_gp": {
+    "tatuusfa1": {
+     "laptime": 84393,
+     "laps": 2,
+     "ts": 1765377510109
+    }
+   }
+  },
+  "last_seen": 1765378281890,
+  "wins": 0,
+  "podiums": 0,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 0
  },
  {
   "guid": "76561198261124570",
@@ -68761,6 +68761,28 @@
   "infr": 1
  },
  {
+  "guid": "76561199026518844",
+  "name": "Francesco Torrente",
+  "points": 48.566,
+  "kilometers": 143.9,
+  "collisions": 5,
+  "leaderboard": {
+   "ks_brands_hatch_gp": {
+    "tatuusfa1": {
+     "laptime": 83791,
+     "laps": 13,
+     "ts": 1765377751337
+    }
+   }
+  },
+  "last_seen": 1765378281890,
+  "wins": 0,
+  "podiums": 1,
+  "poles": 0,
+  "flaps": 1,
+  "infr": 0
+ },
+ {
   "guid": "76561198415774086",
   "name": "SPLife_psy___751",
   "points": 48.556,
@@ -74336,28 +74358,6 @@
    }
   },
   "last_seen": 1757269877605,
-  "wins": 0,
-  "podiums": 0,
-  "poles": 0,
-  "flaps": 0,
-  "infr": 0
- },
- {
-  "guid": "76561199026518844",
-  "name": "Francesco Torrente",
-  "points": 47.026,
-  "kilometers": 116.6,
-  "collisions": 1,
-  "leaderboard": {
-   "ks_brands_hatch_gp": {
-    "tatuusfa1": {
-     "laptime": 84102,
-     "laps": 9,
-     "ts": 1765377030659
-    }
-   }
-  },
-  "last_seen": 1765377293213,
   "wins": 0,
   "podiums": 0,
   "poles": 0,

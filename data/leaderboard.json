@@ -43196,10 +43196,22 @@
     "guid": "76561199512329908"
    },
    {
+    "laptime": 83791,
+    "name": "Francesco Torrente",
+    "laps": 13,
+    "guid": "76561199026518844"
+   },
+   {
     "laptime": 83813,
     "name": "DooL-FR",
     "laps": 1,
     "guid": "76561198410700355"
+   },
+   {
+    "laptime": 83846,
+    "name": "Andrea Aliperti",
+    "laps": 15,
+    "guid": "76561198119214913"
    },
    {
     "laptime": 83883,
@@ -43275,12 +43287,6 @@
    },
    {
     "laptime": 84102,
-    "name": "Francesco Torrente",
-    "laps": 8,
-    "guid": "76561199026518844"
-   },
-   {
-    "laptime": 84102,
     "name": "Terronsito",
     "laps": 16,
     "guid": "76561198032482512"
@@ -43314,12 +43320,6 @@
     "name": "Mikey Theodossiou",
     "laps": 3,
     "guid": "76561199072957455"
-   },
-   {
-    "laptime": 84225,
-    "name": "Andrea Aliperti",
-    "laps": 8,
-    "guid": "76561198119214913"
    },
    {
     "laptime": 84229,
