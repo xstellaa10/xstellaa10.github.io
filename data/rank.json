@@ -2,9 +2,9 @@
  {
   "guid": "76561198025621442",
   "name": "DIENamic",
-  "points": 7117.979,
-  "kilometers": 30210.5,
-  "collisions": 960,
+  "points": 7117.029,
+  "kilometers": 30219.5,
+  "collisions": 962,
   "leaderboard": {
    "ks_zandvoort_": {
     "tatuusfa1": {
@@ -37,8 +37,8 @@
    "ks_brands_hatch_gp": {
     "tatuusfa1": {
      "laptime": 81074,
-     "laps": 268,
-     "ts": 1765389124723
+     "laps": 271,
+     "ts": 1765390296306
     }
    },
    "ks_nurburgring_layout_gp_b": {
@@ -98,7 +98,7 @@
     }
    }
   },
-  "last_seen": 1765389216334,
+  "last_seen": 1765390656764,
   "wins": 257,
   "podiums": 538,
   "poles": 47,
@@ -320,9 +320,9 @@
  {
   "guid": "76561199084335436",
   "name": "Marcos Mariño",
-  "points": 2394.9100000000003,
-  "kilometers": 14883.9,
-  "collisions": 537,
+  "points": 2395.007,
+  "kilometers": 14895.6,
+  "collisions": 538,
   "leaderboard": {
    "ks_zandvoort_": {
     "tatuusfa1": {
@@ -355,8 +355,8 @@
    "ks_brands_hatch_gp": {
     "tatuusfa1": {
      "laptime": 80163,
-     "laps": 70,
-     "ts": 1759171913796
+     "laps": 72,
+     "ts": 1765390586198
     }
    },
    "ks_nurburgring_layout_gp_b": {
@@ -416,7 +416,7 @@
     }
    }
   },
-  "last_seen": 1765133375044,
+  "last_seen": 1765390656764,
   "wins": 60,
   "podiums": 177,
   "poles": 121,
@@ -19808,6 +19808,35 @@
   "infr": 3
  },
  {
+  "guid": "76561197970377026",
+  "name": "Da Costa",
+  "points": 72.397,
+  "kilometers": 79.7,
+  "collisions": 8,
+  "leaderboard": {
+   "magione_": {
+    "tatuusfa1": {
+     "laptime": 68061,
+     "laps": 11,
+     "ts": 1763496217589
+    }
+   },
+   "ks_brands_hatch_gp": {
+    "tatuusfa1": {
+     "laptime": 82515,
+     "laps": 6,
+     "ts": 1765390404487
+    }
+   }
+  },
+  "last_seen": 1765390656764,
+  "wins": 1,
+  "podiums": 1,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 0
+ },
+ {
   "guid": "76561198247147006",
   "name": "issofto",
   "points": 72.34599999999999,
@@ -32365,6 +32394,28 @@
   "infr": 5
  },
  {
+  "guid": "76561199203074017",
+  "name": "Bagguett",
+  "points": 58.406000000000006,
+  "kilometers": 25.4,
+  "collisions": 6,
+  "leaderboard": {
+   "ks_brands_hatch_gp": {
+    "tatuusfa1": {
+     "laptime": 79765,
+     "laps": 4,
+     "ts": 1765389624308
+    }
+   }
+  },
+  "last_seen": 1765389635806,
+  "wins": 0,
+  "podiums": 1,
+  "poles": 1,
+  "flaps": 1,
+  "infr": 0
+ },
+ {
   "guid": "76561198265975577",
   "name": "PES",
   "points": 58.391,
@@ -32452,28 +32503,6 @@
   "infr": 5
  },
  {
-  "guid": "76561199203074017",
-  "name": "Bagguett",
-  "points": 58.316,
-  "kilometers": 24,
-  "collisions": 5,
-  "leaderboard": {
-   "ks_brands_hatch_gp": {
-    "tatuusfa1": {
-     "laptime": 79918,
-     "laps": 3,
-     "ts": 1765388289987
-    }
-   }
-  },
-  "last_seen": 1765389216334,
-  "wins": 0,
-  "podiums": 1,
-  "poles": 1,
-  "flaps": 1,
-  "infr": 0
- },
- {
   "guid": "76561198103679028",
   "name": "JimmyCee",
   "points": 58.29,
@@ -32489,28 +32518,6 @@
    }
   },
   "last_seen": 1762840983053,
-  "wins": 0,
-  "podiums": 0,
-  "poles": 0,
-  "flaps": 0,
-  "infr": 0
- },
- {
-  "guid": "76561197970377026",
-  "name": "Da Costa",
-  "points": 58.258,
-  "kilometers": 53.4,
-  "collisions": 6,
-  "leaderboard": {
-   "magione_": {
-    "tatuusfa1": {
-     "laptime": 68061,
-     "laps": 11,
-     "ts": 1763496217589
-    }
-   }
-  },
-  "last_seen": 1763496236605,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
@@ -62584,6 +62591,21 @@
   "leaderboard": {
   },
   "last_seen": 1762798639988,
+  "wins": 0,
+  "podiums": 0,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 0
+ },
+ {
+  "guid": "76561199486080084",
+  "name": "mili",
+  "points": 49.557,
+  "kilometers": 9.6,
+  "collisions": 5,
+  "leaderboard": {
+  },
+  "last_seen": 1765389827638,
   "wins": 0,
   "podiums": 0,
   "poles": 0,

@@ -42608,6 +42608,12 @@
     "guid": "76561198273504643"
    },
    {
+    "laptime": 79765,
+    "name": "Bagguett",
+    "laps": 4,
+    "guid": "76561199203074017"
+   },
+   {
     "laptime": 79802,
     "name": "Bennett Racz Szabo",
     "laps": 41,
@@ -42618,12 +42624,6 @@
     "name": "Stella",
     "laps": 5,
     "guid": "76561198212710700"
-   },
-   {
-    "laptime": 79918,
-    "name": "Bagguett",
-    "laps": 3,
-    "guid": "76561199203074017"
    },
    {
     "laptime": 79974,
@@ -42948,6 +42948,12 @@
     "name": "Saba",
     "laps": 5,
     "guid": "76561199067031859"
+   },
+   {
+    "laptime": 82515,
+    "name": "Da Costa",
+    "laps": 5,
+    "guid": "76561197970377026"
    },
    {
     "laptime": 82520,
