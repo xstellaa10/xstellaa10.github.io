@@ -942,8 +942,8 @@
  {
   "guid": "76561198273504643",
   "name": "Alexander",
-  "points": 1467.363,
-  "kilometers": 14202,
+  "points": 1467.783,
+  "kilometers": 14206,
   "collisions": 290,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -977,8 +977,8 @@
    "ks_brands_hatch_gp": {
     "tatuusfa1": {
      "laptime": 79955,
-     "laps": 56,
-     "ts": 1765328938129
+     "laps": 57,
+     "ts": 1765329081190
     }
    },
    "ks_nurburgring_layout_gp_b": {
@@ -1038,7 +1038,7 @@
     }
    }
   },
-  "last_seen": 1765328965765,
+  "last_seen": 1765329164217,
   "wins": 60,
   "podiums": 88,
   "poles": 120,
@@ -3402,8 +3402,8 @@
  {
   "guid": "76561199095074508",
   "name": "HugeBigBeans",
-  "points": 466.65,
-  "kilometers": 2123.2,
+  "points": 466.597,
+  "kilometers": 2125,
   "collisions": 118,
   "leaderboard": {
    "ks_silverstone_gp": {
@@ -3456,7 +3456,7 @@
     }
    }
   },
-  "last_seen": 1765328965765,
+  "last_seen": 1765329165923,
   "wins": 25,
   "podiums": 34,
   "poles": 10,
@@ -50601,7 +50601,7 @@
  {
   "guid": "76561199046471461",
   "name": "LUC1F3R",
-  "points": 51.663999999999994,
+  "points": 51.664,
   "kilometers": 31.8,
   "collisions": 15,
   "leaderboard": {
@@ -50613,7 +50613,7 @@
     }
    }
   },
-  "last_seen": 1765310834100,
+  "last_seen": 1765369574169,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
