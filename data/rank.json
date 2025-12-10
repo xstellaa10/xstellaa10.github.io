@@ -2,8 +2,8 @@
  {
   "guid": "76561198025621442",
   "name": "DIENamic",
-  "points": 7101.176,
-  "kilometers": 30128.9,
+  "points": 7103.2339999999995,
+  "kilometers": 30161.5,
   "collisions": 956,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -37,8 +37,8 @@
    "ks_brands_hatch_gp": {
     "tatuusfa1": {
      "laptime": 81074,
-     "laps": 251,
-     "ts": 1759094917710
+     "laps": 257,
+     "ts": 1765386806852
     }
    },
    "ks_nurburgring_layout_gp_b": {
@@ -98,7 +98,7 @@
     }
    }
   },
-  "last_seen": 1765385586288,
+  "last_seen": 1765386979204,
   "wins": 255,
   "podiums": 536,
   "poles": 47,
@@ -942,8 +942,8 @@
  {
   "guid": "76561198273504643",
   "name": "Alexander",
-  "points": 1473.611,
-  "kilometers": 14240.2,
+  "points": 1473.731,
+  "kilometers": 14248,
   "collisions": 292,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -976,9 +976,9 @@
    },
    "ks_brands_hatch_gp": {
     "tatuusfa1": {
-     "laptime": 79781,
-     "laps": 65,
-     "ts": 1765384682727
+     "laptime": 79765,
+     "laps": 66,
+     "ts": 1765386897943
     }
    },
    "ks_nurburgring_layout_gp_b": {
@@ -1038,7 +1038,7 @@
     }
    }
   },
-  "last_seen": 1765384948599,
+  "last_seen": 1765386979204,
   "wins": 60,
   "podiums": 88,
   "poles": 120,
@@ -2820,9 +2820,9 @@
  {
   "guid": "76561198065243121",
   "name": "MisterFlappy",
-  "points": 637.0600000000001,
-  "kilometers": 9042.5,
-  "collisions": 515,
+  "points": 636.5490000000001,
+  "kilometers": 9056,
+  "collisions": 516,
   "leaderboard": {
    "mugello_": {
     "tatuusfa1": {
@@ -2909,7 +2909,7 @@
     }
    }
   },
-  "last_seen": 1765131528449,
+  "last_seen": 1765386979204,
   "wins": 39,
   "podiums": 85,
   "poles": 8,
