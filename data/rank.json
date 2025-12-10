@@ -47509,6 +47509,28 @@
   "infr": 0
  },
  {
+  "guid": "76561199757941626",
+  "name": "BALOURSDOG",
+  "points": 52.428,
+  "kilometers": 11.7,
+  "collisions": 1,
+  "leaderboard": {
+   "ks_brands_hatch_gp": {
+    "tatuusfa1": {
+     "laptime": 90739,
+     "laps": 1,
+     "ts": 1765371351187
+    }
+   }
+  },
+  "last_seen": 1765371491325,
+  "wins": 0,
+  "podiums": 0,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 0
+ },
+ {
   "guid": "76561198432591443",
   "name": "pompellope",
   "points": 52.425,
@@ -50602,7 +50624,7 @@
   "guid": "76561199046471461",
   "name": "LUC1F3R",
   "points": 51.664,
-  "kilometers": 31.8,
+  "kilometers": 28.9,
   "collisions": 15,
   "leaderboard": {
    "ks_brands_hatch_gp": {
@@ -50613,7 +50635,7 @@
     }
    }
   },
-  "last_seen": 1765369574169,
+  "last_seen": 1765369635271,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
