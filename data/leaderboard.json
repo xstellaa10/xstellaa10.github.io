@@ -42884,6 +42884,12 @@
     "guid": "76561198189611781"
    },
    {
+    "laptime": 82059,
+    "name": "Da Costa",
+    "laps": 12,
+    "guid": "76561197970377026"
+   },
+   {
     "laptime": 82102,
     "name": "Vestergaard",
     "laps": 1,
@@ -42948,12 +42954,6 @@
     "name": "Saba",
     "laps": 5,
     "guid": "76561199067031859"
-   },
-   {
-    "laptime": 82515,
-    "name": "Da Costa",
-    "laps": 5,
-    "guid": "76561197970377026"
    },
    {
     "laptime": 82520,
@@ -43284,6 +43284,12 @@
     "name": "Silvio Ianiro",
     "laps": 3,
     "guid": "76561198036290581"
+   },
+   {
+    "laptime": 83977,
+    "name": "mxs",
+    "laps": 1,
+    "guid": "76561199099672991"
    },
    {
     "laptime": 83986,
