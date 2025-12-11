@@ -42692,6 +42692,12 @@
     "guid": "76561199560459292"
    },
    {
+    "laptime": 80457,
+    "name": "samino",
+    "laps": 62,
+    "guid": "76561198965135660"
+   },
+   {
     "laptime": 80497,
     "name": "olalekezion810",
     "laps": 55,
@@ -42708,12 +42714,6 @@
     "name": "M.N.",
     "laps": 6,
     "guid": "76561198373674570"
-   },
-   {
-    "laptime": 80576,
-    "name": "samino",
-    "laps": 57,
-    "guid": "76561198965135660"
    },
    {
     "laptime": 80585,
@@ -42878,6 +42878,12 @@
     "guid": "76561198281399110"
    },
    {
+    "laptime": 81547,
+    "name": "Wohall",
+    "laps": 72,
+    "guid": "76561198163482603"
+   },
+   {
     "laptime": 81618,
     "name": "pinyo97",
     "laps": 14,
@@ -42900,6 +42906,12 @@
     "name": "IceEnjoyer",
     "laps": 13,
     "guid": "76561198827524183"
+   },
+   {
+    "laptime": 81748,
+    "name": "Bruno Montini",
+    "laps": 3,
+    "guid": "76561198007691966"
    },
    {
     "laptime": 81765,
@@ -42978,12 +42990,6 @@
     "name": "Lesiu",
     "laps": 30,
     "guid": "76561198203278019"
-   },
-   {
-    "laptime": 82142,
-    "name": "Wohall",
-    "laps": 66,
-    "guid": "76561198163482603"
    },
    {
     "laptime": 82156,
@@ -44300,6 +44306,12 @@
     "guid": "76561198018912126"
    },
    {
+    "laptime": 88722,
+    "name": "Heda",
+    "laps": 2,
+    "guid": "76561198081070892"
+   },
+   {
     "laptime": 88812,
     "name": "Cornettu",
     "laps": 1,
@@ -44544,6 +44556,12 @@
     "name": "skipper2030",
     "laps": 1,
     "guid": "76561199700264231"
+   },
+   {
+    "laptime": 92342,
+    "name": "NimbleNeil",
+    "laps": 1,
+    "guid": "76561198010510051"
    },
    {
     "laptime": 92586,
