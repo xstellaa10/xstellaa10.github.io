@@ -942,7 +942,7 @@
  {
   "guid": "76561198273504643",
   "name": "Alexander",
-  "points": 1570.9189999999999,
+  "points": 1570.919,
   "kilometers": 14601.8,
   "collisions": 306,
   "leaderboard": {
@@ -1038,7 +1038,7 @@
     }
    }
   },
-  "last_seen": 1765415620113,
+  "last_seen": 1765473035385,
   "wins": 65,
   "podiums": 94,
   "poles": 130,
@@ -2756,8 +2756,8 @@
  {
   "guid": "76561198163482603",
   "name": "Wohall",
-  "points": 638.575,
-  "kilometers": 7150.6,
+  "points": 638.5250000000001,
+  "kilometers": 7160.3,
   "collisions": 892,
   "leaderboard": {
    "spa_": {
@@ -2810,7 +2810,7 @@
     }
    }
   },
-  "last_seen": 1765471922474,
+  "last_seen": 1765472093363,
   "wins": 13,
   "podiums": 38,
   "poles": 3,
