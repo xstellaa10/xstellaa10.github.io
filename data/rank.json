@@ -2,8 +2,8 @@
  {
   "guid": "76561198025621442",
   "name": "DIEnamic",
-  "points": 7240.974999999999,
-  "kilometers": 30823.1,
+  "points": 7245.958,
+  "kilometers": 30846.6,
   "collisions": 987,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -37,8 +37,8 @@
    "ks_brands_hatch_gp": {
     "tatuusfa1": {
      "laptime": 81074,
-     "laps": 406,
-     "ts": 1765467295578
+     "laps": 411,
+     "ts": 1765468047582
     }
    },
    "ks_nurburgring_layout_gp_b": {
@@ -98,9 +98,9 @@
     }
    }
   },
-  "last_seen": 1765467523208,
-  "wins": 261,
-  "podiums": 549,
+  "last_seen": 1765468098319,
+  "wins": 262,
+  "podiums": 550,
   "poles": 48,
   "flaps": 124,
   "infr": 19
@@ -744,9 +744,9 @@
  {
   "guid": "76561198281399110",
   "name": "3lMist3r",
-  "points": 1646.5520000000001,
-  "kilometers": 7088.2,
-  "collisions": 403,
+  "points": 1648.507,
+  "kilometers": 7111.7,
+  "collisions": 406,
   "leaderboard": {
    "ks_zandvoort_": {
     "tatuusfa1": {
@@ -779,8 +779,8 @@
    "ks_brands_hatch_gp": {
     "tatuusfa1": {
      "laptime": 81487,
-     "laps": 66,
-     "ts": 1765467383934
+     "laps": 71,
+     "ts": 1765468060440
     }
    },
    "ks_nurburgring_layout_gp_b": {
@@ -840,9 +840,9 @@
     }
    }
   },
-  "last_seen": 1765467523208,
+  "last_seen": 1765468098319,
   "wins": 35,
-  "podiums": 114,
+  "podiums": 115,
   "poles": 5,
   "flaps": 8,
   "infr": 2
@@ -850,9 +850,9 @@
  {
   "guid": "76561198028779531",
   "name": "Subinator",
-  "points": 1640.442,
-  "kilometers": 8067.7,
-  "collisions": 136,
+  "points": 1645.532,
+  "kilometers": 8091.2,
+  "collisions": 137,
   "leaderboard": {
    "ks_zandvoort_": {
     "tatuusfa1": {
@@ -927,16 +927,16 @@
    "ks_brands_hatch_gp": {
     "tatuusfa1": {
      "laptime": 80853,
-     "laps": 65,
-     "ts": 1765466715611
+     "laps": 70,
+     "ts": 1765468049950
     }
    }
   },
-  "last_seen": 1765467523208,
+  "last_seen": 1765468098319,
   "wins": 91,
-  "podiums": 137,
+  "podiums": 138,
   "poles": 44,
-  "flaps": 43,
+  "flaps": 44,
   "infr": 13
  },
  {
@@ -40946,7 +40946,7 @@
     }
    }
   },
-  "last_seen": 1765378158731,
+  "last_seen": 1765468098319,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
