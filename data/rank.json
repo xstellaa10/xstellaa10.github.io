@@ -2331,9 +2331,9 @@
  {
   "guid": "76561198028559312",
   "name": "Konrad Czarnota",
-  "points": 747.075,
-  "kilometers": 6748.5,
-  "collisions": 269,
+  "points": 745.874,
+  "kilometers": 6748.7,
+  "collisions": 271,
   "leaderboard": {
    "mugello_": {
     "tatuusfa1": {
@@ -2413,7 +2413,7 @@
     }
    }
   },
-  "last_seen": 1765487597326,
+  "last_seen": 1765488943326,
   "wins": 19,
   "podiums": 46,
   "poles": 31,
@@ -2678,7 +2678,7 @@
  {
   "guid": "76561198163482603",
   "name": "Wohall",
-  "points": 664.122,
+  "points": 668.885,
   "kilometers": 7358.4,
   "collisions": 902,
   "leaderboard": {
@@ -2733,10 +2733,10 @@
    }
   },
   "last_seen": 1765487560384,
-  "wins": 13,
-  "podiums": 41,
+  "wins": 14,
+  "podiums": 42,
   "poles": 3,
-  "flaps": 7,
+  "flaps": 8,
   "infr": 15
  },
  {
@@ -3026,9 +3026,9 @@
  {
   "guid": "76561198868504121",
   "name": "Dre Mano",
-  "points": 525.744,
-  "kilometers": 6954.3,
-  "collisions": 362,
+  "points": 532.243,
+  "kilometers": 6997.3,
+  "collisions": 365,
   "leaderboard": {
    "ks_zandvoort_": {
     "tatuusfa1": {
@@ -3061,8 +3061,8 @@
    "ks_brands_hatch_gp": {
     "tatuusfa1": {
      "laptime": 80404,
-     "laps": 123,
-     "ts": 1765478178206
+     "laps": 130,
+     "ts": 1765488852411
     }
    },
    "ks_nurburgring_layout_gp_b": {
@@ -3115,11 +3115,11 @@
     }
    }
   },
-  "last_seen": 1765478283982,
-  "wins": 28,
-  "podiums": 62,
-  "poles": 14,
-  "flaps": 21,
+  "last_seen": 1765488943326,
+  "wins": 29,
+  "podiums": 63,
+  "poles": 15,
+  "flaps": 22,
   "infr": 26
  },
  {
@@ -4332,7 +4332,7 @@
  {
   "guid": "76561198858822043",
   "name": "isi",
-  "points": 370.948,
+  "points": 372.30699999999996,
   "kilometers": 5626.9,
   "collisions": 933,
   "leaderboard": {
@@ -4388,7 +4388,7 @@
   },
   "last_seen": 1765487561906,
   "wins": 3,
-  "podiums": 17,
+  "podiums": 18,
   "poles": 1,
   "flaps": 0,
   "infr": 8
@@ -30646,6 +30646,28 @@
   "infr": 0
  },
  {
+  "guid": "76561198879783810",
+  "name": "ot220",
+  "points": 60.381,
+  "kilometers": 57.3,
+  "collisions": 4,
+  "leaderboard": {
+   "ks_brands_hatch_gp": {
+    "tatuusfa1": {
+     "laptime": 83301,
+     "laps": 10,
+     "ts": 1765488603392
+    }
+   }
+  },
+  "last_seen": 1765488679834,
+  "wins": 0,
+  "podiums": 1,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 0
+ },
+ {
   "guid": "76561199323690644",
   "name": "agustin rocha",
   "points": 60.379,
@@ -33015,28 +33037,6 @@
   "last_seen": 1764798999593,
   "wins": 0,
   "podiums": 0,
-  "poles": 0,
-  "flaps": 0,
-  "infr": 0
- },
- {
-  "guid": "76561198879783810",
-  "name": "ot220",
-  "points": 58.34,
-  "kilometers": 23,
-  "collisions": 1,
-  "leaderboard": {
-   "ks_brands_hatch_gp": {
-    "tatuusfa1": {
-     "laptime": 83640,
-     "laps": 4,
-     "ts": 1765487445250
-    }
-   }
-  },
-  "last_seen": 1765487597326,
-  "wins": 0,
-  "podiums": 1,
   "poles": 0,
   "flaps": 0,
   "infr": 0
@@ -63058,6 +63058,21 @@
   "infr": 0
  },
  {
+  "guid": "76561199028100126",
+  "name": "Lucas Locht",
+  "points": 49.618,
+  "kilometers": 6.2,
+  "collisions": 1,
+  "leaderboard": {
+  },
+  "last_seen": 1765488643418,
+  "wins": 0,
+  "podiums": 0,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 0
+ },
+ {
   "guid": "76561199813311187",
   "name": "Ryze andre",
   "points": 49.615,
@@ -87988,6 +88003,28 @@
   "leaderboard": {
   },
   "last_seen": 1765035122895,
+  "wins": 0,
+  "podiums": 0,
+  "poles": 0,
+  "flaps": 0,
+  "infr": 1
+ },
+ {
+  "guid": "76561198176097255",
+  "name": "TTNO1",
+  "points": 43.816,
+  "kilometers": 7,
+  "collisions": 3,
+  "leaderboard": {
+   "ks_brands_hatch_gp": {
+    "tatuusfa1": {
+     "laptime": 94688,
+     "laps": 1,
+     "ts": 1765488100357
+    }
+   }
+  },
+  "last_seen": 1765488261582,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
