@@ -44030,6 +44030,12 @@
     "guid": "76561198461114902"
    },
    {
+    "laptime": 86283,
+    "name": "Squirrel King",
+    "laps": 5,
+    "guid": "76561198236728948"
+   },
+   {
     "laptime": 86287,
     "name": "tobiasdadams",
     "laps": 1,
@@ -44280,12 +44286,6 @@
     "name": "sim02",
     "laps": 1,
     "guid": "76561199807660675"
-   },
-   {
-    "laptime": 88373,
-    "name": "Squirrel King",
-    "laps": 4,
-    "guid": "76561198236728948"
    },
    {
     "laptime": 88490,
