@@ -2331,8 +2331,8 @@
  {
   "guid": "76561198028559312",
   "name": "Konrad Czarnota",
-  "points": 745.874,
-  "kilometers": 6748.7,
+  "points": 745.835,
+  "kilometers": 6746.4,
   "collisions": 271,
   "leaderboard": {
    "mugello_": {
@@ -2413,7 +2413,7 @@
     }
    }
   },
-  "last_seen": 1765488943326,
+  "last_seen": 1765489403723,
   "wins": 19,
   "podiums": 46,
   "poles": 31,
@@ -3115,7 +3115,7 @@
     }
    }
   },
-  "last_seen": 1765488943326,
+  "last_seen": 1765489056697,
   "wins": 29,
   "podiums": 63,
   "poles": 15,
