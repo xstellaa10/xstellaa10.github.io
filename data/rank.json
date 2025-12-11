@@ -942,8 +942,8 @@
  {
   "guid": "76561198273504643",
   "name": "Alexander",
-  "points": 1570.919,
-  "kilometers": 14601.8,
+  "points": 1571.7060000000001,
+  "kilometers": 14619.2,
   "collisions": 306,
   "leaderboard": {
    "ks_zandvoort_": {
@@ -977,8 +977,8 @@
    "ks_brands_hatch_gp": {
     "tatuusfa1": {
      "laptime": 79505,
-     "laps": 139,
-     "ts": 1765415604394
+     "laps": 141,
+     "ts": 1765473567964
     }
    },
    "ks_nurburgring_layout_gp_b": {
@@ -1038,7 +1038,7 @@
     }
    }
   },
-  "last_seen": 1765473035385,
+  "last_seen": 1765473630973,
   "wins": 65,
   "podiums": 94,
   "poles": 130,
@@ -5698,9 +5698,9 @@
  {
   "guid": "76561199026962142",
   "name": "JAmes May",
-  "points": 246.93900000000002,
-  "kilometers": 3800.4,
-  "collisions": 509,
+  "points": 247.88,
+  "kilometers": 3843.4,
+  "collisions": 512,
   "leaderboard": {
    "imola_": {
     "tatuusfa1": {
@@ -5746,13 +5746,13 @@
    },
    "ks_brands_hatch_gp": {
     "tatuusfa1": {
-     "laptime": 83624,
-     "laps": 28,
-     "ts": 1765307068939
+     "laptime": 83285,
+     "laps": 32,
+     "ts": 1765474875663
     }
    }
   },
-  "last_seen": 1765307136717,
+  "last_seen": 1765475650318,
   "wins": 1,
   "podiums": 9,
   "poles": 0,
@@ -11992,28 +11992,6 @@
   "infr": 0
  },
  {
-  "guid": "76561199156775618",
-  "name": "Goosebottle",
-  "points": 105.444,
-  "kilometers": 563.5,
-  "collisions": 79,
-  "leaderboard": {
-   "mugello_": {
-    "tatuusfa1": {
-     "laptime": 105747,
-     "laps": 69,
-     "ts": 1764951638653
-    }
-   }
-  },
-  "last_seen": 1764951681220,
-  "wins": 1,
-  "podiums": 3,
-  "poles": 1,
-  "flaps": 1,
-  "infr": 1
- },
- {
   "guid": "76561198017239788",
   "name": "Sicarius",
   "points": 105.431,
@@ -12128,6 +12106,28 @@
   "poles": 0,
   "flaps": 0,
   "infr": 0
+ },
+ {
+  "guid": "76561199156775618",
+  "name": "Goosebottle",
+  "points": 104.187,
+  "kilometers": 574.2,
+  "collisions": 83,
+  "leaderboard": {
+   "mugello_": {
+    "tatuusfa1": {
+     "laptime": 105747,
+     "laps": 69,
+     "ts": 1764951638653
+    }
+   }
+  },
+  "last_seen": 1765474340255,
+  "wins": 1,
+  "podiums": 3,
+  "poles": 1,
+  "flaps": 1,
+  "infr": 1
  },
  {
   "guid": "76561198077583626",
