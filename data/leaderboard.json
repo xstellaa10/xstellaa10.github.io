@@ -43694,6 +43694,12 @@
     "guid": "76561197989433441"
    },
    {
+    "laptime": 84866,
+    "name": "SinB",
+    "laps": 4,
+    "guid": "76561199049873962"
+   },
+   {
     "laptime": 84876,
     "name": "Lorenzo Lombardi",
     "laps": 1,
@@ -43860,12 +43866,6 @@
     "name": "Nova",
     "laps": 2,
     "guid": "76561198135362002"
-   },
-   {
-    "laptime": 85315,
-    "name": "SinB",
-    "laps": 1,
-    "guid": "76561199049873962"
    },
    {
     "laptime": 85329,
