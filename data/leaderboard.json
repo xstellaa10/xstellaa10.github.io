@@ -42800,6 +42800,12 @@
     "guid": "76561198127178768"
    },
    {
+    "laptime": 81013,
+    "name": "Michal Vychodil",
+    "laps": 67,
+    "guid": "76561198029844869"
+   },
+   {
     "laptime": 81019,
     "name": "TJ09",
     "laps": 3,
@@ -42840,12 +42846,6 @@
     "name": "{ZULU} KillBill",
     "laps": 10,
     "guid": "76561198016379386"
-   },
-   {
-    "laptime": 81328,
-    "name": "Michal Vychodil",
-    "laps": 34,
-    "guid": "76561198029844869"
    },
    {
     "laptime": 81383,
@@ -43260,6 +43260,12 @@
     "name": "VanHaydn",
     "laps": 8,
     "guid": "76561197997021660"
+   },
+   {
+    "laptime": 83452,
+    "name": "Bull-et",
+    "laps": 1,
+    "guid": "76561198435469615"
    },
    {
     "laptime": 83453,
@@ -44064,6 +44070,12 @@
     "name": "valkanix",
     "laps": 6,
     "guid": "76561199491619367"
+   },
+   {
+    "laptime": 86360,
+    "name": "Marc del nogal",
+    "laps": 2,
+    "guid": "76561199048935256"
    },
    {
     "laptime": 86417,
