@@ -44090,6 +44090,12 @@
     "guid": "76561198085271447"
    },
    {
+    "laptime": 86020,
+    "name": "BeneficialQC",
+    "laps": 4,
+    "guid": "76561198110810096"
+   },
+   {
     "laptime": 86028,
     "name": "Dann",
     "laps": 4,
@@ -44262,12 +44268,6 @@
     "name": "ficha_rota",
     "laps": 3,
     "guid": "76561198916589994"
-   },
-   {
-    "laptime": 86673,
-    "name": "BeneficialQC",
-    "laps": 3,
-    "guid": "76561198110810096"
    },
    {
     "laptime": 86693,
