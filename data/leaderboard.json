@@ -42656,16 +42656,16 @@
     "guid": "76561199084335436"
    },
    {
+    "laptime": 80183,
+    "name": "SimiThePro",
+    "laps": 45,
+    "guid": "76561198399478476"
+   },
+   {
     "laptime": 80213,
     "name": "Grimlord",
     "laps": 42,
     "guid": "76561198828350593"
-   },
-   {
-    "laptime": 80250,
-    "name": "SimiThePro",
-    "laps": 44,
-    "guid": "76561198399478476"
    },
    {
     "laptime": 80296,
@@ -43070,6 +43070,12 @@
     "guid": "76561198126737131"
    },
    {
+    "laptime": 82352,
+    "name": "Timmy Ketchup",
+    "laps": 20,
+    "guid": "76561199466032525"
+   },
+   {
     "laptime": 82415,
     "name": "KW",
     "laps": 10,
@@ -43152,12 +43158,6 @@
     "name": "Cassius",
     "laps": 3,
     "guid": "76561198069757866"
-   },
-   {
-    "laptime": 82721,
-    "name": "Timmy Ketchup",
-    "laps": 18,
-    "guid": "76561199466032525"
    },
    {
     "laptime": 82750,
