@@ -42662,6 +42662,12 @@
     "guid": "76561198828350593"
    },
    {
+    "laptime": 80250,
+    "name": "SimiThePro",
+    "laps": 44,
+    "guid": "76561198399478476"
+   },
+   {
     "laptime": 80296,
     "name": "David O.",
     "laps": 166,
@@ -42672,12 +42678,6 @@
     "name": "Dre Mano",
     "laps": 156,
     "guid": "76561198868504121"
-   },
-   {
-    "laptime": 80322,
-    "name": "SimiThePro",
-    "laps": 33,
-    "guid": "76561198399478476"
    },
    {
     "laptime": 80332,
@@ -42864,6 +42864,12 @@
     "name": "Fancy Natra",
     "laps": 80,
     "guid": "76561198028884703"
+   },
+   {
+    "laptime": 81317,
+    "name": "Atyo",
+    "laps": 15,
+    "guid": "76561198113312264"
    },
    {
     "laptime": 81383,
@@ -43100,12 +43106,6 @@
     "guid": "76561198446376805"
    },
    {
-    "laptime": 82597,
-    "name": "Atyo",
-    "laps": 13,
-    "guid": "76561198113312264"
-   },
-   {
     "laptime": 82599,
     "name": "Jean Jaques",
     "laps": 6,
@@ -43152,6 +43152,12 @@
     "name": "Cassius",
     "laps": 3,
     "guid": "76561198069757866"
+   },
+   {
+    "laptime": 82721,
+    "name": "Timmy Ketchup",
+    "laps": 18,
+    "guid": "76561199466032525"
    },
    {
     "laptime": 82750,
@@ -43202,12 +43208,6 @@
     "guid": "76561198014069855"
    },
    {
-    "laptime": 82880,
-    "name": "Timmy Ketchup",
-    "laps": 13,
-    "guid": "76561199466032525"
-   },
-   {
     "laptime": 82994,
     "name": ".FM. Payson",
     "laps": 8,
@@ -43248,6 +43248,12 @@
     "name": "TimeLord0011",
     "laps": 2,
     "guid": "76561199491460443"
+   },
+   {
+    "laptime": 83273,
+    "name": "Felipe Rodriguez",
+    "laps": 3,
+    "guid": "76561198802663250"
    },
    {
     "laptime": 83284,
@@ -43452,6 +43458,12 @@
     "name": "gpeter",
     "laps": 5,
     "guid": "76561197974684938"
+   },
+   {
+    "laptime": 83973,
+    "name": "lancher",
+    "laps": 2,
+    "guid": "76561198006278358"
    },
    {
     "laptime": 83974,
