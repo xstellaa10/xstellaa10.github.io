@@ -25506,6 +25506,12 @@
     "guid": "76561199151873507"
    },
    {
+    "laptime": 122050,
+    "name": "KW",
+    "laps": 8,
+    "guid": "76561198139102398"
+   },
+   {
     "laptime": 122071,
     "name": "Armin Cova",
     "laps": 1,
@@ -25648,12 +25654,6 @@
     "name": "adolf. G Floyed",
     "laps": 3,
     "guid": "76561199055468275"
-   },
-   {
-    "laptime": 122605,
-    "name": "KW",
-    "laps": 2,
-    "guid": "76561198139102398"
    },
    {
     "laptime": 122607,
@@ -27066,6 +27066,12 @@
     "guid": "76561199686107087"
    },
    {
+    "laptime": 125232,
+    "name": "Perjurio",
+    "laps": 2,
+    "guid": "76561198323071762"
+   },
+   {
     "laptime": 125235,
     "name": "Enis Yolcu",
     "laps": 3,
@@ -27316,12 +27322,6 @@
     "name": "Aik",
     "laps": 2,
     "guid": "76561198184305265"
-   },
-   {
-    "laptime": 125709,
-    "name": "Perjurio",
-    "laps": 1,
-    "guid": "76561198323071762"
    },
    {
     "laptime": 125738,
