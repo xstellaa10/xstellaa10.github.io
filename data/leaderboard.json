@@ -24822,6 +24822,12 @@
     "guid": "76561198084420751"
    },
    {
+    "laptime": 120227,
+    "name": "Felipe Rodriguez",
+    "laps": 60,
+    "guid": "76561198802663250"
+   },
+   {
     "laptime": 120255,
     "name": "Josh Pie",
     "laps": 33,
@@ -24838,12 +24844,6 @@
     "name": "Redav",
     "laps": 4,
     "guid": "76561198827600027"
-   },
-   {
-    "laptime": 120302,
-    "name": "Felipe Rodriguez",
-    "laps": 47,
-    "guid": "76561198802663250"
    },
    {
     "laptime": 120312,
@@ -25396,6 +25396,12 @@
     "name": "Lazar Ilic",
     "laps": 1,
     "guid": "76561198448505015"
+   },
+   {
+    "laptime": 121785,
+    "name": "DuWabbiT",
+    "laps": 4,
+    "guid": "76561198124713255"
    },
    {
     "laptime": 121823,
