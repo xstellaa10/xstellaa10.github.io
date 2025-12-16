@@ -24564,6 +24564,12 @@
     "guid": "76561198823475881"
    },
    {
+    "laptime": 119092,
+    "name": "DuWabbiT",
+    "laps": 71,
+    "guid": "76561198124713255"
+   },
+   {
     "laptime": 119181,
     "name": "SimiThePro",
     "laps": 22,
@@ -24600,10 +24606,10 @@
     "guid": "76561197995833363"
    },
    {
-    "laptime": 119313,
-    "name": "DuWabbiT",
-    "laps": 58,
-    "guid": "76561198124713255"
+    "laptime": 119283,
+    "name": "VikingLord",
+    "laps": 32,
+    "guid": "76561199147007110"
    },
    {
     "laptime": 119317,
@@ -24628,12 +24634,6 @@
     "name": "Nick Edwards",
     "laps": 4,
     "guid": "76561198023212152"
-   },
-   {
-    "laptime": 119424,
-    "name": "VikingLord",
-    "laps": 27,
-    "guid": "76561199147007110"
    },
    {
     "laptime": 119465,
@@ -24690,6 +24690,12 @@
     "guid": "76561199093090792"
    },
    {
+    "laptime": 119619,
+    "name": "Fancy Natra",
+    "laps": 83,
+    "guid": "76561198028884703"
+   },
+   {
     "laptime": 119654,
     "name": "Money",
     "laps": 7,
@@ -24706,6 +24712,12 @@
     "name": "Dre Mano",
     "laps": 23,
     "guid": "76561198868504121"
+   },
+   {
+    "laptime": 119690,
+    "name": "PotatoDoges",
+    "laps": 22,
+    "guid": "76561198150804897"
    },
    {
     "laptime": 119717,
@@ -24730,12 +24742,6 @@
     "name": "Felix Seesing",
     "laps": 5,
     "guid": "76561199047235293"
-   },
-   {
-    "laptime": 119727,
-    "name": "Fancy Natra",
-    "laps": 73,
-    "guid": "76561198028884703"
    },
    {
     "laptime": 119728,
@@ -24826,12 +24832,6 @@
     "name": "Evan Ghelos",
     "laps": 15,
     "guid": "76561198193719235"
-   },
-   {
-    "laptime": 120062,
-    "name": "PotatoDoges",
-    "laps": 14,
-    "guid": "76561198150804897"
    },
    {
     "laptime": 120090,
@@ -24970,6 +24970,12 @@
     "name": "Valentin D.N",
     "laps": 11,
     "guid": "76561199601308214"
+   },
+   {
+    "laptime": 120505,
+    "name": "Tiago Baptista",
+    "laps": 4,
+    "guid": "76561198024134514"
    },
    {
     "laptime": 120520,
@@ -25230,6 +25236,12 @@
     "guid": "76561198858822043"
    },
    {
+    "laptime": 121146,
+    "name": "Nicky2Timez",
+    "laps": 2,
+    "guid": "76561198850727163"
+   },
+   {
     "laptime": 121196,
     "name": "CosmicCaravan_",
     "laps": 24,
@@ -25482,6 +25494,12 @@
     "guid": "76561198267516909"
    },
    {
+    "laptime": 121571,
+    "name": "brownShikamaru",
+    "laps": 10,
+    "guid": "76561198209697209"
+   },
+   {
     "laptime": 121572,
     "name": "Ricer",
     "laps": 3,
@@ -25702,12 +25720,6 @@
     "name": "Andrea Giardi",
     "laps": 3,
     "guid": "76561198130631584"
-   },
-   {
-    "laptime": 121980,
-    "name": "NickLaBennett",
-    "laps": 1,
-    "guid": "76561198850727163"
    },
    {
     "laptime": 121984,
@@ -25990,12 +26002,6 @@
     "name": "Stefanjioa",
     "laps": 2,
     "guid": "76561199755901576"
-   },
-   {
-    "laptime": 122625,
-    "name": "brownShikamaru",
-    "laps": 4,
-    "guid": "76561198209697209"
    },
    {
     "laptime": 122634,
@@ -26448,6 +26454,12 @@
     "guid": "76561198316663744"
    },
    {
+    "laptime": 123415,
+    "name": "MazaTribe",
+    "laps": 14,
+    "guid": "76561198379324541"
+   },
+   {
     "laptime": 123422,
     "name": "Venomous Adder",
     "laps": 1,
@@ -26554,12 +26566,6 @@
     "name": "RLD!",
     "laps": 1,
     "guid": "76561199137062587"
-   },
-   {
-    "laptime": 123586,
-    "name": "MazaTribe",
-    "laps": 8,
-    "guid": "76561198379324541"
    },
    {
     "laptime": 123586,
@@ -28698,6 +28704,12 @@
     "guid": "76561198859357572"
    },
    {
+    "laptime": 126743,
+    "name": "Patches",
+    "laps": 2,
+    "guid": "76561199098251465"
+   },
+   {
     "laptime": 126749,
     "name": "FatFart89",
     "laps": 5,
@@ -28884,6 +28896,12 @@
     "guid": "76561199526529047"
    },
    {
+    "laptime": 127126,
+    "name": "Pablo Ruan",
+    "laps": 2,
+    "guid": "76561198846928659"
+   },
+   {
     "laptime": 127148,
     "name": "Zygzak McQueen",
     "laps": 1,
@@ -29008,6 +29026,12 @@
     "name": "pierpaoloderario3",
     "laps": 1,
     "guid": "76561199224379973"
+   },
+   {
+    "laptime": 127302,
+    "name": "Donk Shnoodle",
+    "laps": 1,
+    "guid": "76561198282108649"
    },
    {
     "laptime": 127303,
@@ -29332,6 +29356,12 @@
     "name": "tbertrand640",
     "laps": 1,
     "guid": "76561199813205774"
+   },
+   {
+    "laptime": 128071,
+    "name": "Galaxy Dog",
+    "laps": 3,
+    "guid": "76561198168718704"
    },
    {
     "laptime": 128075,
@@ -29796,6 +29826,12 @@
     "guid": "76561199566536362"
    },
    {
+    "laptime": 129160,
+    "name": "Soyfer.m",
+    "laps": 3,
+    "guid": "76561199690644399"
+   },
+   {
     "laptime": 129222,
     "name": "stufftoeat",
     "laps": 1,
@@ -30028,12 +30064,6 @@
     "name": "L3uS_525",
     "laps": 2,
     "guid": "76561199045519473"
-   },
-   {
-    "laptime": 130092,
-    "name": "Galaxy Dog",
-    "laps": 1,
-    "guid": "76561198168718704"
    },
    {
     "laptime": 130117,
@@ -30408,6 +30438,12 @@
     "guid": "76561198257124779"
    },
    {
+    "laptime": 132279,
+    "name": "David",
+    "laps": 2,
+    "guid": "76561198034616451"
+   },
+   {
     "laptime": 132374,
     "name": "havlat.zdenek",
     "laps": 1,
@@ -30430,6 +30466,12 @@
     "name": "PlayJao",
     "laps": 2,
     "guid": "76561199105843593"
+   },
+   {
+    "laptime": 132503,
+    "name": "Devin",
+    "laps": 1,
+    "guid": "76561199012030264"
    },
    {
     "laptime": 132597,
@@ -30484,6 +30526,12 @@
     "name": "Vic",
     "laps": 1,
     "guid": "76561198976704452"
+   },
+   {
+    "laptime": 132926,
+    "name": "Matthwm",
+    "laps": 1,
+    "guid": "76561198098152065"
    },
    {
     "laptime": 133161,
@@ -30624,10 +30672,22 @@
     "guid": "76561199380437618"
    },
    {
+    "laptime": 134057,
+    "name": "Marksullander",
+    "laps": 1,
+    "guid": "76561198305833326"
+   },
+   {
     "laptime": 134156,
     "name": "Zombyoncrack",
     "laps": 1,
     "guid": "76561199480330546"
+   },
+   {
+    "laptime": 134250,
+    "name": "I owe $17 to the korean mafia",
+    "laps": 2,
+    "guid": "76561198182294378"
    },
    {
     "laptime": 134286,
@@ -30928,12 +30988,6 @@
     "name": "nikola.argirov",
     "laps": 1,
     "guid": "76561199220293246"
-   },
-   {
-    "laptime": 139620,
-    "name": "Tiago Baptista",
-    "laps": 1,
-    "guid": "76561198024134514"
    },
    {
     "laptime": 140014,
