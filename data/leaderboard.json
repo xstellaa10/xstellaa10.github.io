@@ -25410,6 +25410,12 @@
     "guid": "76561197998778966"
    },
    {
+    "laptime": 121459,
+    "name": "brownShikamaru",
+    "laps": 16,
+    "guid": "76561198209697209"
+   },
+   {
     "laptime": 121493,
     "name": "Cassius",
     "laps": 2,
@@ -25492,12 +25498,6 @@
     "name": "Maxovics",
     "laps": 22,
     "guid": "76561198267516909"
-   },
-   {
-    "laptime": 121571,
-    "name": "brownShikamaru",
-    "laps": 10,
-    "guid": "76561198209697209"
    },
    {
     "laptime": 121572,
@@ -25666,6 +25666,12 @@
     "name": "Darko Merli",
     "laps": 2,
     "guid": "76561198303583195"
+   },
+   {
+    "laptime": 121911,
+    "name": "MazaTribe",
+    "laps": 21,
+    "guid": "76561198379324541"
    },
    {
     "laptime": 121917,
@@ -26452,12 +26458,6 @@
     "name": "Danielers23",
     "laps": 3,
     "guid": "76561198316663744"
-   },
-   {
-    "laptime": 123415,
-    "name": "MazaTribe",
-    "laps": 14,
-    "guid": "76561198379324541"
    },
    {
     "laptime": 123422,
@@ -27414,6 +27414,12 @@
     "guid": "76561198090767309"
    },
    {
+    "laptime": 124686,
+    "name": "IMBOUTTAKUM",
+    "laps": 1,
+    "guid": "76561198314458129"
+   },
+   {
     "laptime": 124719,
     "name": "igordossantosgomes9",
     "laps": 5,
@@ -27894,6 +27900,12 @@
     "guid": "76561199171402942"
    },
    {
+    "laptime": 125418,
+    "name": "Patches",
+    "laps": 3,
+    "guid": "76561199098251465"
+   },
+   {
     "laptime": 125444,
     "name": "Gianc",
     "laps": 1,
@@ -28114,6 +28126,12 @@
     "name": "MSK",
     "laps": 1,
     "guid": "76561198314076580"
+   },
+   {
+    "laptime": 125821,
+    "name": "Devin",
+    "laps": 4,
+    "guid": "76561199012030264"
    },
    {
     "laptime": 125824,
@@ -28702,12 +28720,6 @@
     "name": "kirua",
     "laps": 2,
     "guid": "76561198859357572"
-   },
-   {
-    "laptime": 126743,
-    "name": "Patches",
-    "laps": 2,
-    "guid": "76561199098251465"
    },
    {
     "laptime": 126749,
@@ -30466,12 +30478,6 @@
     "name": "PlayJao",
     "laps": 2,
     "guid": "76561199105843593"
-   },
-   {
-    "laptime": 132503,
-    "name": "Devin",
-    "laps": 1,
-    "guid": "76561199012030264"
    },
    {
     "laptime": 132597,
