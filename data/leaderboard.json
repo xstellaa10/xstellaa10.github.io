@@ -26292,6 +26292,12 @@
     "guid": "76561199388535714"
    },
    {
+    "laptime": 123184,
+    "name": "JeffTeej",
+    "laps": 4,
+    "guid": "76561199037332177"
+   },
+   {
     "laptime": 123185,
     "name": "Jean Girard",
     "laps": 9,
@@ -27454,12 +27460,6 @@
     "name": "Arturo Moran",
     "laps": 3,
     "guid": "76561199311322892"
-   },
-   {
-    "laptime": 124893,
-    "name": "JeffTeej",
-    "laps": 1,
-    "guid": "76561199037332177"
    },
    {
     "laptime": 124899,
@@ -29040,6 +29040,12 @@
     "guid": "76561199319040574"
    },
    {
+    "laptime": 127473,
+    "name": "ivan jose hernandez quintero",
+    "laps": 3,
+    "guid": "76561198772601613"
+   },
+   {
     "laptime": 127474,
     "name": "Fakun",
     "laps": 1,
@@ -29860,12 +29866,6 @@
     "name": "Blade",
     "laps": 2,
     "guid": "76561198349548995"
-   },
-   {
-    "laptime": 129623,
-    "name": "ivan jose hernandez quintero",
-    "laps": 2,
-    "guid": "76561198772601613"
    },
    {
     "laptime": 129671,
@@ -30916,6 +30916,12 @@
     "name": "Halikter",
     "laps": 1,
     "guid": "76561199088907070"
+   },
+   {
+    "laptime": 161369,
+    "name": "Caique",
+    "laps": 1,
+    "guid": "76561198031814763"
    },
    {
     "laptime": 161430,
