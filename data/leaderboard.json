@@ -24606,9 +24606,9 @@
     "guid": "76561199074878863"
    },
    {
-    "laptime": 119223,
+    "laptime": 119221,
     "name": "Bagguett",
-    "laps": 8,
+    "laps": 10,
     "guid": "76561199203074017"
    },
    {
@@ -25084,6 +25084,12 @@
     "name": "T14AERH",
     "laps": 3,
     "guid": "76561198081666331"
+   },
+   {
+    "laptime": 120472,
+    "name": "Meler",
+    "laps": 4,
+    "guid": "76561199083961951"
    },
    {
     "laptime": 120499,
@@ -27312,6 +27318,12 @@
     "guid": "76561199566909714"
    },
    {
+    "laptime": 123628,
+    "name": "Mental Retardation",
+    "laps": 3,
+    "guid": "76561198318351782"
+   },
+   {
     "laptime": 123633,
     "name": "Lorenzo Segoni",
     "laps": 4,
@@ -28050,12 +28062,6 @@
     "guid": "76561198275540772"
    },
    {
-    "laptime": 124336,
-    "name": "Mental Retardation",
-    "laps": 2,
-    "guid": "76561198318351782"
-   },
-   {
     "laptime": 124344,
     "name": "diegomgd",
     "laps": 2,
@@ -28102,6 +28108,12 @@
     "name": "TOAST_GUY35",
     "laps": 5,
     "guid": "76561199467004802"
+   },
+   {
+    "laptime": 124389,
+    "name": "Efehan Dogan",
+    "laps": 1,
+    "guid": "76561198844442238"
    },
    {
     "laptime": 124397,
@@ -28566,6 +28578,12 @@
     "guid": "76561199022050878"
    },
    {
+    "laptime": 124864,
+    "name": "David Salvador",
+    "laps": 4,
+    "guid": "76561198404641913"
+   },
+   {
     "laptime": 124866,
     "name": "Tomoss",
     "laps": 4,
@@ -28618,6 +28636,12 @@
     "name": "Alexis Vieitez",
     "laps": 4,
     "guid": "76561199146905116"
+   },
+   {
+    "laptime": 124910,
+    "name": "Simulation",
+    "laps": 6,
+    "guid": "76561198880314797"
    },
    {
     "laptime": 124917,
@@ -28720,12 +28744,6 @@
     "name": "Sami Ibrahim",
     "laps": 3,
     "guid": "76561199466548737"
-   },
-   {
-    "laptime": 124992,
-    "name": "Simulation",
-    "laps": 2,
-    "guid": "76561198880314797"
    },
    {
     "laptime": 125002,
@@ -29002,6 +29020,12 @@
     "name": "LokkiKoira(Takanaama)",
     "laps": 1,
     "guid": "76561197972930240"
+   },
+   {
+    "laptime": 125274,
+    "name": "Legalizze",
+    "laps": 3,
+    "guid": "76561198294251489"
    },
    {
     "laptime": 125291,
@@ -29418,6 +29442,12 @@
     "guid": "76561198054772538"
    },
    {
+    "laptime": 125697,
+    "name": "Mayeul",
+    "laps": 14,
+    "guid": "76561198386837232"
+   },
+   {
     "laptime": 125719,
     "name": "2805lm",
     "laps": 5,
@@ -29802,6 +29832,12 @@
     "guid": "76561199067900463"
    },
    {
+    "laptime": 126199,
+    "name": "Steady",
+    "laps": 4,
+    "guid": "76561198079594613"
+   },
+   {
     "laptime": 126204,
     "name": "SEM.NOME",
     "laps": 2,
@@ -29872,6 +29908,12 @@
     "name": "Sheldon",
     "laps": 5,
     "guid": "76561198781015856"
+   },
+   {
+    "laptime": 126281,
+    "name": "Alejandroo",
+    "laps": 2,
+    "guid": "76561199319697649"
    },
    {
     "laptime": 126284,
@@ -29992,12 +30034,6 @@
     "name": "g.kalan",
     "laps": 5,
     "guid": "76561198266386565"
-   },
-   {
-    "laptime": 126428,
-    "name": "Mayeul",
-    "laps": 10,
-    "guid": "76561198386837232"
    },
    {
     "laptime": 126430,
@@ -30450,6 +30486,12 @@
     "guid": "76561198079303942"
    },
    {
+    "laptime": 126989,
+    "name": "benloveseveryone",
+    "laps": 3,
+    "guid": "76561198924954654"
+   },
+   {
     "laptime": 127004,
     "name": "RcoNs",
     "laps": 1,
@@ -30768,12 +30810,6 @@
     "guid": "76561198962674850"
    },
    {
-    "laptime": 127394,
-    "name": "Steady",
-    "laps": 1,
-    "guid": "76561198079594613"
-   },
-   {
     "laptime": 127410,
     "name": "The Dog of Wisdom",
     "laps": 1,
@@ -30886,12 +30922,6 @@
     "name": "Harry Dowling",
     "laps": 3,
     "guid": "76561199552939612"
-   },
-   {
-    "laptime": 127574,
-    "name": "benloveseveryone",
-    "laps": 1,
-    "guid": "76561198924954654"
    },
    {
     "laptime": 127598,
