@@ -24624,6 +24624,12 @@
     "guid": "76561199095074508"
    },
    {
+    "laptime": 119262,
+    "name": "Mihajlo Mladenovic",
+    "laps": 11,
+    "guid": "76561198285213727"
+   },
+   {
     "laptime": 119265,
     "name": "coldwater",
     "laps": 40,
@@ -24700,12 +24706,6 @@
     "name": "Saba",
     "laps": 19,
     "guid": "76561199067031859"
-   },
-   {
-    "laptime": 119515,
-    "name": "Mihajlo Mladenovic",
-    "laps": 4,
-    "guid": "76561198285213727"
    },
    {
     "laptime": 119544,
@@ -29400,6 +29400,12 @@
     "guid": "76561199067312757"
    },
    {
+    "laptime": 125488,
+    "name": "benloveseveryone",
+    "laps": 4,
+    "guid": "76561198924954654"
+   },
+   {
     "laptime": 125493,
     "name": "alexmaybett",
     "laps": 1,
@@ -30664,12 +30670,6 @@
     "name": "mattparker00",
     "laps": 9,
     "guid": "76561198079303942"
-   },
-   {
-    "laptime": 126989,
-    "name": "benloveseveryone",
-    "laps": 3,
-    "guid": "76561198924954654"
    },
    {
     "laptime": 127004,
