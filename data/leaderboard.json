@@ -34102,6 +34102,12 @@
     "guid": "76561198277908651"
    },
    {
+    "laptime": 116435,
+    "name": "sarinkodappully",
+    "laps": 40,
+    "guid": "76561198326733995"
+   },
+   {
     "laptime": 116457,
     "name": "Felipe Rodriguez",
     "laps": 23,
@@ -34120,6 +34126,12 @@
     "guid": "76561198155514626"
    },
    {
+    "laptime": 116530,
+    "name": "DOMINIK SIDZINA",
+    "laps": 11,
+    "guid": "76561199158204909"
+   },
+   {
     "laptime": 116633,
     "name": "Fancy Natra",
     "laps": 3,
@@ -34130,18 +34142,6 @@
     "name": "spxrco",
     "laps": 4,
     "guid": "76561199189412808"
-   },
-   {
-    "laptime": 116709,
-    "name": "DOMINIK SIDZINA",
-    "laps": 7,
-    "guid": "76561199158204909"
-   },
-   {
-    "laptime": 116737,
-    "name": "sarinkodappully",
-    "laps": 25,
-    "guid": "76561198326733995"
    },
    {
     "laptime": 116788,
@@ -34456,6 +34456,12 @@
     "guid": "76561198120575245"
    },
    {
+    "laptime": 119234,
+    "name": "Lev",
+    "laps": 5,
+    "guid": "76561198119664545"
+   },
+   {
     "laptime": 119258,
     "name": "Locvek",
     "laps": 29,
@@ -34478,6 +34484,12 @@
     "name": "CZDN | 89",
     "laps": 12,
     "guid": "76561199221263515"
+   },
+   {
+    "laptime": 119385,
+    "name": "wajherax36",
+    "laps": 9,
+    "guid": "76561198965623388"
    },
    {
     "laptime": 119543,
@@ -34568,12 +34580,6 @@
     "name": "FastGerard",
     "laps": 2,
     "guid": "76561198972574698"
-   },
-   {
-    "laptime": 119982,
-    "name": "wajherax36",
-    "laps": 7,
-    "guid": "76561198965623388"
    },
    {
     "laptime": 119997,
@@ -35146,9 +35152,9 @@
     "guid": "76561198973209222"
    },
    {
-    "laptime": 125624,
+    "laptime": 125389,
     "name": "Liberty",
-    "laps": 6,
+    "laps": 10,
     "guid": "76561199468644915"
    },
    {
@@ -35206,6 +35212,12 @@
     "guid": "76561199441930698"
    },
    {
+    "laptime": 126611,
+    "name": "Berrieddelight",
+    "laps": 5,
+    "guid": "76561199231681529"
+   },
+   {
     "laptime": 126625,
     "name": "NO NAME",
     "laps": 1,
@@ -35246,12 +35258,6 @@
     "name": "ophir.assaf.10",
     "laps": 2,
     "guid": "76561199628637945"
-   },
-   {
-    "laptime": 127710,
-    "name": "Berrieddelight",
-    "laps": 2,
-    "guid": "76561199231681529"
    },
    {
     "laptime": 127869,
@@ -35404,6 +35410,12 @@
     "guid": "76561198000735757"
    },
    {
+    "laptime": 135335,
+    "name": "Gonzalo Loayza",
+    "laps": 3,
+    "guid": "76561198269220690"
+   },
+   {
     "laptime": 136184,
     "name": "Pganch",
     "laps": 1,
@@ -35414,12 +35426,6 @@
     "name": "YYYX",
     "laps": 1,
     "guid": "76561199071503405"
-   },
-   {
-    "laptime": 138913,
-    "name": "Gonzalo Loayza",
-    "laps": 1,
-    "guid": "76561198269220690"
    },
    {
     "laptime": 139509,
