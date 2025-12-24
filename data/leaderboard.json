@@ -34150,6 +34150,12 @@
     "guid": "76561197968284158"
    },
    {
+    "laptime": 117121,
+    "name": "DIENamic",
+    "laps": 5,
+    "guid": "76561198025621442"
+   },
+   {
     "laptime": 117142,
     "name": "Nassim",
     "laps": 5,
@@ -34208,12 +34214,6 @@
     "name": "Federico  Vergani",
     "laps": 11,
     "guid": "76561198994069542"
-   },
-   {
-    "laptime": 117423,
-    "name": "DIENamic",
-    "laps": 2,
-    "guid": "76561198025621442"
    },
    {
     "laptime": 117459,
@@ -34904,6 +34904,12 @@
     "name": "✠ Buřtíčekkk ✠",
     "laps": 1,
     "guid": "76561199030545023"
+   },
+   {
+    "laptime": 123621,
+    "name": "MAJO90",
+    "laps": 2,
+    "guid": "76561198015317671"
    },
    {
     "laptime": 123660,
