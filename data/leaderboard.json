@@ -34300,6 +34300,12 @@
     "guid": "76561199094647920"
    },
    {
+    "laptime": 117808,
+    "name": "Stella",
+    "laps": 1,
+    "guid": "76561198212710700"
+   },
+   {
     "laptime": 117835,
     "name": "leo",
     "laps": 26,
@@ -34432,6 +34438,12 @@
     "guid": "76561198119664545"
    },
    {
+    "laptime": 118748,
+    "name": "Luan",
+    "laps": 2,
+    "guid": "76561198076574486"
+   },
+   {
     "laptime": 118815,
     "name": "Micha Leuvink",
     "laps": 2,
@@ -34528,6 +34540,12 @@
     "guid": "76561199207171127"
    },
    {
+    "laptime": 119298,
+    "name": "Mkappa",
+    "laps": 6,
+    "guid": "76561198077421668"
+   },
+   {
     "laptime": 119325,
     "name": "PRC._.",
     "laps": 7,
@@ -34574,12 +34592,6 @@
     "name": "Nods",
     "laps": 1,
     "guid": "76561198275260857"
-   },
-   {
-    "laptime": 119414,
-    "name": "Mkappa",
-    "laps": 3,
-    "guid": "76561198077421668"
    },
    {
     "laptime": 119465,
@@ -34862,6 +34874,12 @@
     "name": "7avhen",
     "laps": 14,
     "guid": "76561199063781598"
+   },
+   {
+    "laptime": 121212,
+    "name": "Honza Kos",
+    "laps": 4,
+    "guid": "76561198046296663"
    },
    {
     "laptime": 121275,
@@ -35224,12 +35242,6 @@
     "guid": "76561198015317671"
    },
    {
-    "laptime": 123622,
-    "name": "Honza Kos",
-    "laps": 1,
-    "guid": "76561198046296663"
-   },
-   {
     "laptime": 123660,
     "name": "c0mpadre",
     "laps": 1,
@@ -35368,6 +35380,12 @@
     "guid": "76561199692050820"
    },
    {
+    "laptime": 125132,
+    "name": "Tiago Baptista",
+    "laps": 1,
+    "guid": "76561198024134514"
+   },
+   {
     "laptime": 125246,
     "name": "Orage-du-soir",
     "laps": 3,
@@ -35392,6 +35410,12 @@
     "guid": "76561198973209222"
    },
    {
+    "laptime": 125432,
+    "name": "PABLO CARPANZANO",
+    "laps": 13,
+    "guid": "76561199824645177"
+   },
+   {
     "laptime": 125809,
     "name": "Liram_levi",
     "laps": 2,
@@ -35414,6 +35438,12 @@
     "name": "sozial.muhammed20",
     "laps": 1,
     "guid": "76561199732107523"
+   },
+   {
+    "laptime": 125908,
+    "name": "FN_Martim",
+    "laps": 2,
+    "guid": "76561199310878807"
    },
    {
     "laptime": 125961,
@@ -35512,16 +35542,16 @@
     "guid": "76561198764159381"
    },
    {
+    "laptime": 127487,
+    "name": "Void",
+    "laps": 1,
+    "guid": "76561199251840393"
+   },
+   {
     "laptime": 127516,
     "name": "ophir.assaf.10",
     "laps": 2,
     "guid": "76561199628637945"
-   },
-   {
-    "laptime": 127708,
-    "name": "PABLO CARPANZANO",
-    "laps": 7,
-    "guid": "76561199824645177"
    },
    {
     "laptime": 127869,
@@ -35546,6 +35576,12 @@
     "name": "galow.gs",
     "laps": 1,
     "guid": "76561199199513506"
+   },
+   {
+    "laptime": 128267,
+    "name": "Icsu Leanu",
+    "laps": 4,
+    "guid": "76561199543774826"
    },
    {
     "laptime": 128280,
