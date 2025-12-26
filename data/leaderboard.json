@@ -34138,6 +34138,12 @@
     "guid": "76561198802663250"
    },
    {
+    "laptime": 116465,
+    "name": "Dre Mano",
+    "laps": 10,
+    "guid": "76561198868504121"
+   },
+   {
     "laptime": 116476,
     "name": "BBlSNiffer",
     "laps": 2,
@@ -34172,12 +34178,6 @@
     "name": "Mousab El Hassani",
     "laps": 13,
     "guid": "76561198341358160"
-   },
-   {
-    "laptime": 116883,
-    "name": "Dre Mano",
-    "laps": 4,
-    "guid": "76561198868504121"
    },
    {
     "laptime": 116926,
@@ -34304,6 +34304,12 @@
     "name": "Jongi30",
     "laps": 2,
     "guid": "76561198975490726"
+   },
+   {
+    "laptime": 117735,
+    "name": "Traliccio",
+    "laps": 7,
+    "guid": "76561199500429336"
    },
    {
     "laptime": 117762,
@@ -34552,6 +34558,12 @@
     "guid": "76561199734173970"
    },
    {
+    "laptime": 119197,
+    "name": "georgepk1999",
+    "laps": 3,
+    "guid": "76561199388535714"
+   },
+   {
     "laptime": 119220,
     "name": "Jean Jaques",
     "laps": 3,
@@ -34570,16 +34582,16 @@
     "guid": "76561198077421668"
    },
    {
+    "laptime": 119299,
+    "name": "CrappyGuy",
+    "laps": 1,
+    "guid": "76561199012378466"
+   },
+   {
     "laptime": 119325,
     "name": "PRC._.",
     "laps": 7,
     "guid": "76561198411906681"
-   },
-   {
-    "laptime": 119339,
-    "name": "Traliccio",
-    "laps": 3,
-    "guid": "76561199500429336"
    },
    {
     "laptime": 119378,
@@ -34814,6 +34826,12 @@
     "name": "Ben Fuller",
     "laps": 2,
     "guid": "76561199208389392"
+   },
+   {
+    "laptime": 120278,
+    "name": "Fabri Cerrone",
+    "laps": 4,
+    "guid": "76561198030408532"
    },
    {
     "laptime": 120297,
@@ -35120,6 +35138,12 @@
     "name": "Joe",
     "laps": 7,
     "guid": "76561198268130476"
+   },
+   {
+    "laptime": 121999,
+    "name": "Biagio Tomasi",
+    "laps": 1,
+    "guid": "76561198362813902"
    },
    {
     "laptime": 122026,
@@ -36002,6 +36026,12 @@
     "name": "Pganch",
     "laps": 1,
     "guid": "76561198755354164"
+   },
+   {
+    "laptime": 136376,
+    "name": "Wilku",
+    "laps": 2,
+    "guid": "76561198307710500"
    },
    {
     "laptime": 138190,
