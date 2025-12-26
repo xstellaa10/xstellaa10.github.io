@@ -34384,6 +34384,12 @@
     "guid": "76561199080113779"
    },
    {
+    "laptime": 118420,
+    "name": "Pollero Giuliano",
+    "laps": 3,
+    "guid": "76561197992465826"
+   },
+   {
     "laptime": 118469,
     "name": "Laminnar",
     "laps": 3,
@@ -34502,6 +34508,12 @@
     "name": "Ste8",
     "laps": 1,
     "guid": "76561198800006342"
+   },
+   {
+    "laptime": 118974,
+    "name": "Biagio Tomasi",
+    "laps": 6,
+    "guid": "76561198362813902"
    },
    {
     "laptime": 118976,
@@ -34774,12 +34786,6 @@
     "guid": "76561198171066949"
    },
    {
-    "laptime": 120033,
-    "name": "Biagio Tomasi",
-    "laps": 5,
-    "guid": "76561198362813902"
-   },
-   {
     "laptime": 120067,
     "name": "bigboy",
     "laps": 3,
@@ -34886,12 +34892,6 @@
     "name": "GRogu-VaNss",
     "laps": 2,
     "guid": "76561199701178523"
-   },
-   {
-    "laptime": 120591,
-    "name": "Pollero Giuliano",
-    "laps": 1,
-    "guid": "76561197992465826"
    },
    {
     "laptime": 120604,
@@ -35174,6 +35174,12 @@
     "name": "Lyam_44",
     "laps": 1,
     "guid": "76561199838262202"
+   },
+   {
+    "laptime": 122129,
+    "name": "Ju18",
+    "laps": 1,
+    "guid": "76561199406023033"
    },
    {
     "laptime": 122162,
@@ -35492,6 +35498,12 @@
     "name": "MiguelZenemig",
     "laps": 1,
     "guid": "76561199047008611"
+   },
+   {
+    "laptime": 124235,
+    "name": "(RTT) Francesco Banchi",
+    "laps": 1,
+    "guid": "76561197990862353"
    },
    {
     "laptime": 124251,
@@ -35858,6 +35870,12 @@
     "name": "nottalkaabi",
     "laps": 1,
     "guid": "76561199520415281"
+   },
+   {
+    "laptime": 129356,
+    "name": "TOMASZ TOMECKII ZIĘBA",
+    "laps": 3,
+    "guid": "76561198863122069"
    },
    {
     "laptime": 129376,
