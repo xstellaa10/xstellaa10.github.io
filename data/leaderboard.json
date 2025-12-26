@@ -34342,6 +34342,12 @@
     "guid": "76561198390651988"
    },
    {
+    "laptime": 117964,
+    "name": "Pollero Giuliano",
+    "laps": 7,
+    "guid": "76561197992465826"
+   },
+   {
     "laptime": 118045,
     "name": "SCF",
     "laps": 14,
@@ -34384,10 +34390,10 @@
     "guid": "76561199080113779"
    },
    {
-    "laptime": 118420,
-    "name": "Pollero Giuliano",
-    "laps": 3,
-    "guid": "76561197992465826"
+    "laptime": 118405,
+    "name": "Fabri Cerrone",
+    "laps": 10,
+    "guid": "76561198030408532"
    },
    {
     "laptime": 118469,
@@ -34580,12 +34586,6 @@
     "name": "Jean Jaques",
     "laps": 3,
     "guid": "76561198120575245"
-   },
-   {
-    "laptime": 119256,
-    "name": "Fabri Cerrone",
-    "laps": 7,
-    "guid": "76561198030408532"
    },
    {
     "laptime": 119258,
@@ -34954,6 +34954,12 @@
     "guid": "76561199060836462"
    },
    {
+    "laptime": 121049,
+    "name": "tchekthesound",
+    "laps": 2,
+    "guid": "76561198067510021"
+   },
+   {
     "laptime": 121084,
     "name": "Goosebottle",
     "laps": 2,
@@ -35066,6 +35072,12 @@
     "name": "motogprossi123",
     "laps": 1,
     "guid": "76561199281960399"
+   },
+   {
+    "laptime": 121577,
+    "name": "Good job!",
+    "laps": 1,
+    "guid": "76561198873679774"
    },
    {
     "laptime": 121584,
@@ -35440,6 +35452,12 @@
     "guid": "76561198202969261"
    },
    {
+    "laptime": 123881,
+    "name": "(RTT) Francesco Banchi",
+    "laps": 2,
+    "guid": "76561197990862353"
+   },
+   {
     "laptime": 123893,
     "name": "ETA",
     "laps": 1,
@@ -35498,12 +35516,6 @@
     "name": "MiguelZenemig",
     "laps": 1,
     "guid": "76561199047008611"
-   },
-   {
-    "laptime": 124235,
-    "name": "(RTT) Francesco Banchi",
-    "laps": 1,
-    "guid": "76561197990862353"
    },
    {
     "laptime": 124251,
@@ -35734,6 +35746,12 @@
     "guid": "76561199101142900"
    },
    {
+    "laptime": 127205,
+    "name": "TOMASZ TOMECKII ZIĘBA",
+    "laps": 5,
+    "guid": "76561198863122069"
+   },
+   {
     "laptime": 127279,
     "name": "Antonio Alessio",
     "laps": 1,
@@ -35870,12 +35888,6 @@
     "name": "nottalkaabi",
     "laps": 1,
     "guid": "76561199520415281"
-   },
-   {
-    "laptime": 129356,
-    "name": "TOMASZ TOMECKII ZIĘBA",
-    "laps": 3,
-    "guid": "76561198863122069"
    },
    {
     "laptime": 129376,
