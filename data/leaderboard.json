@@ -69504,9 +69504,9 @@
     "guid": "76561198010877229"
    },
    {
-    "laptime": 70325,
+    "laptime": 70269,
     "name": "spxrco",
-    "laps": 30,
+    "laps": 36,
     "guid": "76561199189412808"
    },
    {
@@ -69672,15 +69672,21 @@
     "guid": "76561198142255076"
    },
    {
+    "laptime": 71809,
+    "name": "Tonioagri",
+    "laps": 7,
+    "guid": "76561199436153610"
+   },
+   {
     "laptime": 71816,
     "name": "berthuveneers",
     "laps": 7,
     "guid": "76561198009921310"
    },
    {
-    "laptime": 71904,
+    "laptime": 71879,
     "name": "BinBoBoi",
-    "laps": 8,
+    "laps": 18,
     "guid": "76561199169260783"
    },
    {
@@ -69714,10 +69720,10 @@
     "guid": "76561199730497666"
    },
    {
-    "laptime": 72514,
-    "name": "Tonioagri",
-    "laps": 2,
-    "guid": "76561199436153610"
+    "laptime": 72119,
+    "name": "christopher.j.gilligan",
+    "laps": 11,
+    "guid": "76561199096393419"
    },
    {
     "laptime": 72545,
@@ -69750,6 +69756,12 @@
     "guid": "76561198160662449"
    },
    {
+    "laptime": 72697,
+    "name": "MazaTribe",
+    "laps": 3,
+    "guid": "76561198379324541"
+   },
+   {
     "laptime": 72726,
     "name": "MiguelZenemig",
     "laps": 2,
@@ -69768,16 +69780,16 @@
     "guid": "76561198419036347"
    },
    {
-    "laptime": 72757,
-    "name": "christopher.j.gilligan",
-    "laps": 3,
-    "guid": "76561199096393419"
-   },
-   {
     "laptime": 72766,
     "name": ":(SJH)",
     "laps": 24,
     "guid": "76561199085334415"
+   },
+   {
+    "laptime": 72971,
+    "name": "Di-Ki-Di Pollatos",
+    "laps": 7,
+    "guid": "76561199217386942"
    },
    {
     "laptime": 73000,
@@ -69982,12 +69994,6 @@
     "name": "osama bin lagging",
     "laps": 1,
     "guid": "76561199211500267"
-   },
-   {
-    "laptime": 74976,
-    "name": "Di-Ki-Di Pollatos",
-    "laps": 2,
-    "guid": "76561199217386942"
    },
    {
     "laptime": 75001,
