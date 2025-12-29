@@ -69444,9 +69444,9 @@
     "guid": "76561198975490726"
    },
    {
-    "laptime": 70009,
+    "laptime": 69976,
     "name": "DuWabbiT",
-    "laps": 42,
+    "laps": 81,
     "guid": "76561198124713255"
    },
    {
@@ -69522,6 +69522,12 @@
     "guid": "76561197986606289"
    },
    {
+    "laptime": 70432,
+    "name": "olalekezion810",
+    "laps": 10,
+    "guid": "76561199664649696"
+   },
+   {
     "laptime": 70433,
     "name": "Cassius",
     "laps": 8,
@@ -69544,12 +69550,6 @@
     "name": "3lMist3r",
     "laps": 5,
     "guid": "76561198281399110"
-   },
-   {
-    "laptime": 70558,
-    "name": "olalekezion810",
-    "laps": 1,
-    "guid": "76561199664649696"
    },
    {
     "laptime": 70561,
@@ -69648,6 +69648,12 @@
     "guid": "76561199371026975"
    },
    {
+    "laptime": 71678,
+    "name": "toyoton",
+    "laps": 5,
+    "guid": "76561199555191749"
+   },
+   {
     "laptime": 71700,
     "name": "Nicola Mangani",
     "laps": 6,
@@ -69720,9 +69726,9 @@
     "guid": "76561197990824612"
    },
    {
-    "laptime": 72066,
+    "laptime": 71973,
     "name": "Roy Johnson",
-    "laps": 27,
+    "laps": 34,
     "guid": "76561197970715145"
    },
    {
@@ -69772,6 +69778,12 @@
     "name": "MiguelZenemig",
     "laps": 2,
     "guid": "76561199047008611"
+   },
+   {
+    "laptime": 72732,
+    "name": "Dre Mano",
+    "laps": 2,
+    "guid": "76561198868504121"
    },
    {
     "laptime": 72745,
@@ -69864,6 +69876,12 @@
     "guid": "76561199039315525"
    },
    {
+    "laptime": 73540,
+    "name": "Cipson Chuderlak",
+    "laps": 3,
+    "guid": "76561198397515236"
+   },
+   {
     "laptime": 73625,
     "name": "Valgoods Stylee",
     "laps": 1,
@@ -69894,6 +69912,12 @@
     "guid": "76561198966569894"
    },
    {
+    "laptime": 73818,
+    "name": "alessanto91",
+    "laps": 4,
+    "guid": "76561199576064822"
+   },
+   {
     "laptime": 73852,
     "name": "WAZA",
     "laps": 1,
@@ -69922,6 +69946,12 @@
     "name": "Osama Bin Russel",
     "laps": 1,
     "guid": "76561199554772179"
+   },
+   {
+    "laptime": 74129,
+    "name": "diego.cecchetti290315",
+    "laps": 2,
+    "guid": "76561199868046869"
    },
    {
     "laptime": 74141,
@@ -70104,16 +70134,34 @@
     "guid": "76561199096320743"
    },
    {
+    "laptime": 78447,
+    "name": "Schnitzelhonk",
+    "laps": 1,
+    "guid": "76561199037521138"
+   },
+   {
     "laptime": 78455,
     "name": "aleksandar.georgiev",
     "laps": 1,
     "guid": "76561199860727845"
    },
    {
+    "laptime": 78922,
+    "name": "ivan",
+    "laps": 1,
+    "guid": "76561198959933116"
+   },
+   {
     "laptime": 79104,
     "name": "makso24",
     "laps": 2,
     "guid": "76561199259942806"
+   },
+   {
+    "laptime": 79341,
+    "name": "Malfaisant",
+    "laps": 1,
+    "guid": "76561198119298457"
    },
    {
     "laptime": 80298,
