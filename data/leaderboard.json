@@ -69462,9 +69462,15 @@
     "guid": "76561198341668983"
    },
    {
-    "laptime": 70369,
+    "laptime": 70253,
+    "name": "DIEnamic",
+    "laps": 17,
+    "guid": "76561198025621442"
+   },
+   {
+    "laptime": 70359,
     "name": "DuWabbiT",
-    "laps": 3,
+    "laps": 8,
     "guid": "76561198124713255"
    },
    {
@@ -69472,12 +69478,6 @@
     "name": "Chaloem",
     "laps": 1,
     "guid": "76561197986606289"
-   },
-   {
-    "laptime": 70417,
-    "name": "DIEnamic",
-    "laps": 6,
-    "guid": "76561198025621442"
    },
    {
     "laptime": 70459,
@@ -69570,6 +69570,12 @@
     "guid": "76561199442944100"
    },
    {
+    "laptime": 72575,
+    "name": "Scut00",
+    "laps": 1,
+    "guid": "76561198160662449"
+   },
+   {
     "laptime": 72766,
     "name": ":(SJH)",
     "laps": 24,
@@ -69594,6 +69600,12 @@
     "guid": "76561199588886285"
    },
    {
+    "laptime": 73709,
+    "name": "Jesse Games",
+    "laps": 1,
+    "guid": "76561199251216202"
+   },
+   {
     "laptime": 73736,
     "name": "Davo",
     "laps": 4,
@@ -69610,6 +69622,12 @@
     "name": "Pilou2107",
     "laps": 2,
     "guid": "76561199023515846"
+   },
+   {
+    "laptime": 74020,
+    "name": "max verstapen glazer",
+    "laps": 2,
+    "guid": "76561199635199175"
    },
    {
     "laptime": 74141,
@@ -69634,6 +69652,12 @@
     "name": "tedin1_",
     "laps": 2,
     "guid": "76561199808100604"
+   },
+   {
+    "laptime": 74945,
+    "name": "Admiral Akbar",
+    "laps": 2,
+    "guid": "76561198021292852"
    },
    {
     "laptime": 75067,
@@ -69666,6 +69690,12 @@
     "guid": "76561199132459260"
    },
    {
+    "laptime": 77520,
+    "name": "nickydubs2",
+    "laps": 2,
+    "guid": "76561198778235488"
+   },
+   {
     "laptime": 77826,
     "name": "taichi.",
     "laps": 1,
@@ -69678,10 +69708,16 @@
     "guid": "76561199259942806"
    },
    {
-    "laptime": 79411,
-    "name": "nickydubs2",
+    "laptime": 79869,
+    "name": "ALDI-Nord",
     "laps": 1,
-    "guid": "76561198778235488"
+    "guid": "76561198048832438"
+   },
+   {
+    "laptime": 83202,
+    "name": "neron",
+    "laps": 2,
+    "guid": "76561197987002429"
    }
   ]
  }
