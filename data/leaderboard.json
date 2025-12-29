@@ -69444,6 +69444,12 @@
     "guid": "76561198823475881"
    },
    {
+    "laptime": 70065,
+    "name": "DuWabbiT",
+    "laps": 16,
+    "guid": "76561198124713255"
+   },
+   {
     "laptime": 70185,
     "name": "Gianc",
     "laps": 21,
@@ -69456,22 +69462,16 @@
     "guid": "76561198802663250"
    },
    {
+    "laptime": 70211,
+    "name": "DIEnamic",
+    "laps": 18,
+    "guid": "76561198025621442"
+   },
+   {
     "laptime": 70229,
     "name": "Patrikusz1",
     "laps": 8,
     "guid": "76561198341668983"
-   },
-   {
-    "laptime": 70253,
-    "name": "DIEnamic",
-    "laps": 17,
-    "guid": "76561198025621442"
-   },
-   {
-    "laptime": 70359,
-    "name": "DuWabbiT",
-    "laps": 8,
-    "guid": "76561198124713255"
    },
    {
     "laptime": 70416,
@@ -69514,6 +69514,12 @@
     "name": "alealeks",
     "laps": 4,
     "guid": "76561198245117758"
+   },
+   {
+    "laptime": 71678,
+    "name": "Jacob Formy",
+    "laps": 2,
+    "guid": "76561199371026975"
    },
    {
     "laptime": 71724,
@@ -69600,6 +69606,12 @@
     "guid": "76561199588886285"
    },
    {
+    "laptime": 73511,
+    "name": "max verstapen glazer",
+    "laps": 3,
+    "guid": "76561199635199175"
+   },
+   {
     "laptime": 73709,
     "name": "Jesse Games",
     "laps": 1,
@@ -69618,16 +69630,16 @@
     "guid": "76561198966569894"
    },
    {
+    "laptime": 73819,
+    "name": "ALDI-Nord",
+    "laps": 4,
+    "guid": "76561198048832438"
+   },
+   {
     "laptime": 73940,
     "name": "Pilou2107",
     "laps": 2,
     "guid": "76561199023515846"
-   },
-   {
-    "laptime": 74020,
-    "name": "max verstapen glazer",
-    "laps": 2,
-    "guid": "76561199635199175"
    },
    {
     "laptime": 74141,
@@ -69666,6 +69678,12 @@
     "guid": "76561199105913793"
    },
    {
+    "laptime": 75302,
+    "name": "neron",
+    "laps": 4,
+    "guid": "76561197987002429"
+   },
+   {
     "laptime": 75340,
     "name": "Robert Reif",
     "laps": 1,
@@ -69682,6 +69700,12 @@
     "name": "pontios118",
     "laps": 4,
     "guid": "76561199509205621"
+   },
+   {
+    "laptime": 76163,
+    "name": "Slunkius",
+    "laps": 1,
+    "guid": "76561199494811448"
    },
    {
     "laptime": 77341,
@@ -69706,18 +69730,6 @@
     "name": "makso24",
     "laps": 2,
     "guid": "76561199259942806"
-   },
-   {
-    "laptime": 79869,
-    "name": "ALDI-Nord",
-    "laps": 1,
-    "guid": "76561198048832438"
-   },
-   {
-    "laptime": 83202,
-    "name": "neron",
-    "laps": 2,
-    "guid": "76561197987002429"
    }
   ]
  }
