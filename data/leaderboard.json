@@ -69414,16 +69414,16 @@
  "ks_vallelunga_classic_circuit": {
   "tatuusfa1": [
    {
+    "laptime": 69072,
+    "name": "CarterReza",
+    "laps": 48,
+    "guid": "76561198328304798"
+   },
+   {
     "laptime": 69074,
     "name": "F.Fenix",
     "laps": 49,
     "guid": "76561198093606911"
-   },
-   {
-    "laptime": 69106,
-    "name": "CarterReza",
-    "laps": 29,
-    "guid": "76561198328304798"
    },
    {
     "laptime": 69138,
@@ -69438,16 +69438,16 @@
     "guid": "76561199132079617"
    },
    {
+    "laptime": 69408,
+    "name": "Alexander",
+    "laps": 56,
+    "guid": "76561198273504643"
+   },
+   {
     "laptime": 69416,
     "name": "Fliptonix",
     "laps": 36,
     "guid": "76561199126808955"
-   },
-   {
-    "laptime": 69420,
-    "name": "Alexander",
-    "laps": 45,
-    "guid": "76561198273504643"
    },
    {
     "laptime": 69454,
@@ -70296,6 +70296,12 @@
     "guid": "76561198858822043"
    },
    {
+    "laptime": 72278,
+    "name": "bigboy",
+    "laps": 17,
+    "guid": "76561198075772560"
+   },
+   {
     "laptime": 72330,
     "name": "Franquiñño",
     "laps": 4,
@@ -70932,6 +70938,12 @@
     "guid": "76561198878834843"
    },
    {
+    "laptime": 74066,
+    "name": "JemTheHyena",
+    "laps": 6,
+    "guid": "76561199019207462"
+   },
+   {
     "laptime": 74101,
     "name": "Leandro",
     "laps": 1,
@@ -71038,12 +71050,6 @@
     "name": "ubersquish",
     "laps": 3,
     "guid": "76561198138488201"
-   },
-   {
-    "laptime": 74489,
-    "name": "bigboy",
-    "laps": 2,
-    "guid": "76561198075772560"
    },
    {
     "laptime": 74494,
@@ -71398,12 +71404,6 @@
     "name": "que granda gordo",
     "laps": 1,
     "guid": "76561199135463915"
-   },
-   {
-    "laptime": 77459,
-    "name": "JemTheHyena",
-    "laps": 1,
-    "guid": "76561199019207462"
    },
    {
     "laptime": 77520,
