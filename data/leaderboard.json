@@ -69570,6 +69570,12 @@
     "guid": "76561199664649696"
    },
    {
+    "laptime": 70037,
+    "name": "DIEnamic",
+    "laps": 420,
+    "guid": "76561198025621442"
+   },
+   {
     "laptime": 70041,
     "name": "Gaston Delerba",
     "laps": 6,
@@ -69586,12 +69592,6 @@
     "name": "Patrikusz1",
     "laps": 29,
     "guid": "76561198341668983"
-   },
-   {
-    "laptime": 70067,
-    "name": "DIEnamic",
-    "laps": 86,
-    "guid": "76561198025621442"
    },
    {
     "laptime": 70117,
@@ -69810,10 +69810,22 @@
     "guid": "76561198813718776"
    },
    {
+    "laptime": 70852,
+    "name": "Litros",
+    "laps": 4,
+    "guid": "76561198117027952"
+   },
+   {
     "laptime": 70912,
     "name": "TPI - Joan",
     "laps": 11,
     "guid": "76561198237425154"
+   },
+   {
+    "laptime": 70938,
+    "name": "universol",
+    "laps": 1,
+    "guid": "76561198253261997"
    },
    {
     "laptime": 70972,
@@ -71016,6 +71028,12 @@
     "guid": "76561199061164851"
    },
    {
+    "laptime": 74222,
+    "name": "Willy Ruiz",
+    "laps": 5,
+    "guid": "76561198073005785"
+   },
+   {
     "laptime": 74226,
     "name": "meliscarlo1008",
     "laps": 3,
@@ -71464,6 +71482,12 @@
     "name": "nickydubs2",
     "laps": 2,
     "guid": "76561198778235488"
+   },
+   {
+    "laptime": 77647,
+    "name": "MAL_q21",
+    "laps": 1,
+    "guid": "76561199116478420"
    },
    {
     "laptime": 77733,
