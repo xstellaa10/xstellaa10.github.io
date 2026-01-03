@@ -69660,6 +69660,12 @@
     "guid": "76561198023212152"
    },
    {
+    "laptime": 70193,
+    "name": "jack",
+    "laps": 12,
+    "guid": "76561199561692730"
+   },
+   {
     "laptime": 70203,
     "name": "alessandro.deplano",
     "laps": 19,
@@ -69808,12 +69814,6 @@
     "name": "Jamal alabyte",
     "laps": 21,
     "guid": "76561199442944100"
-   },
-   {
-    "laptime": 70642,
-    "name": "jack",
-    "laps": 8,
-    "guid": "76561199561692730"
    },
    {
     "laptime": 70649,
@@ -72042,6 +72042,12 @@
     "guid": "76561199091497244"
    },
    {
+    "laptime": 76782,
+    "name": "FrankPAN364",
+    "laps": 3,
+    "guid": "76561199017769078"
+   },
+   {
     "laptime": 76789,
     "name": "David",
     "laps": 5,
@@ -72160,12 +72166,6 @@
     "name": "taichi.",
     "laps": 1,
     "guid": "76561199091969994"
-   },
-   {
-    "laptime": 77842,
-    "name": "FrankPAN364",
-    "laps": 1,
-    "guid": "76561199017769078"
    },
    {
     "laptime": 77872,
@@ -72418,6 +72418,12 @@
     "name": "Navarin",
     "laps": 1,
     "guid": "76561198129730266"
+   },
+   {
+    "laptime": 124637,
+    "name": "Gigus",
+    "laps": 1,
+    "guid": "76561199275000793"
    }
   ]
  }
