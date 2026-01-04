@@ -69498,6 +69498,12 @@
     "guid": "76561199196456328"
    },
    {
+    "laptime": 69638,
+    "name": "strawberry fields",
+    "laps": 21,
+    "guid": "76561198859483766"
+   },
+   {
     "laptime": 69651,
     "name": "TJ09",
     "laps": 18,
@@ -69520,12 +69526,6 @@
     "name": "spxrco",
     "laps": 100,
     "guid": "76561199189412808"
-   },
-   {
-    "laptime": 69750,
-    "name": "strawberry fields",
-    "laps": 16,
-    "guid": "76561198859483766"
    },
    {
     "laptime": 69764,
@@ -69948,6 +69948,12 @@
     "guid": "76561199028387218"
    },
    {
+    "laptime": 70998,
+    "name": "nAsH",
+    "laps": 24,
+    "guid": "76561199066576996"
+   },
+   {
     "laptime": 71005,
     "name": "Ricer",
     "laps": 1,
@@ -70000,12 +70006,6 @@
     "name": "Reji",
     "laps": 10,
     "guid": "76561198757147824"
-   },
-   {
-    "laptime": 71110,
-    "name": "nAsH",
-    "laps": 17,
-    "guid": "76561199066576996"
    },
    {
     "laptime": 71121,
@@ -70242,6 +70242,12 @@
     "guid": "76561199012378466"
    },
    {
+    "laptime": 71576,
+    "name": "Abel Sanchez",
+    "laps": 13,
+    "guid": "76561198118867405"
+   },
+   {
     "laptime": 71586,
     "name": "aherno",
     "laps": 3,
@@ -70432,12 +70438,6 @@
     "name": "MiguelCruz",
     "laps": 5,
     "guid": "76561199583140751"
-   },
-   {
-    "laptime": 71852,
-    "name": "Abel Sanchez",
-    "laps": 4,
-    "guid": "76561198118867405"
    },
    {
     "laptime": 71869,
@@ -70686,6 +70686,12 @@
     "guid": "76561199147403124"
    },
    {
+    "laptime": 72308,
+    "name": "Alex Muñoz",
+    "laps": 9,
+    "guid": "76561199752077384"
+   },
+   {
     "laptime": 72330,
     "name": "Franquiñño",
     "laps": 4,
@@ -70780,12 +70786,6 @@
     "name": "Jewdix",
     "laps": 11,
     "guid": "76561198268958974"
-   },
-   {
-    "laptime": 72506,
-    "name": "Alex Muñoz",
-    "laps": 7,
-    "guid": "76561199752077384"
    },
    {
     "laptime": 72538,
@@ -71352,6 +71352,12 @@
     "guid": "76561199113578222"
    },
    {
+    "laptime": 73587,
+    "name": "Álvaro Méndez | SAT",
+    "laps": 1,
+    "guid": "76561198805856563"
+   },
+   {
     "laptime": 73595,
     "name": "",
     "laps": 1,
@@ -71716,6 +71722,12 @@
     "name": "Al0nE",
     "laps": 1,
     "guid": "76561198815488756"
+   },
+   {
+    "laptime": 74582,
+    "name": "jaredjr1#1572",
+    "laps": 1,
+    "guid": "76561198189827937"
    },
    {
     "laptime": 74584,
