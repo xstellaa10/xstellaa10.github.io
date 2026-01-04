@@ -69912,6 +69912,12 @@
     "guid": "76561199059661046"
    },
    {
+    "laptime": 70820,
+    "name": "_brg_tcn_",
+    "laps": 8,
+    "guid": "76561198901094045"
+   },
+   {
     "laptime": 70829,
     "name": "Gee",
     "laps": 1,
@@ -69928,12 +69934,6 @@
     "name": "Bull-et",
     "laps": 4,
     "guid": "76561198435469615"
-   },
-   {
-    "laptime": 70889,
-    "name": "_brg_tcn_",
-    "laps": 5,
-    "guid": "76561198901094045"
    },
    {
     "laptime": 70912,
@@ -70494,6 +70494,12 @@
     "guid": "76561199570675236"
    },
    {
+    "laptime": 71885,
+    "name": "Guillaume Fevre",
+    "laps": 9,
+    "guid": "76561198926777190"
+   },
+   {
     "laptime": 71887,
     "name": "Rayyan",
     "laps": 1,
@@ -70966,12 +70972,6 @@
     "name": "Mikrace",
     "laps": 5,
     "guid": "76561198435626560"
-   },
-   {
-    "laptime": 72847,
-    "name": "Guillaume Fevre",
-    "laps": 7,
-    "guid": "76561198926777190"
    },
    {
     "laptime": 72857,
@@ -71688,6 +71688,12 @@
     "guid": "76561198959933116"
    },
    {
+    "laptime": 74366,
+    "name": "xicoo",
+    "laps": 9,
+    "guid": "76561198922879843"
+   },
+   {
     "laptime": 74386,
     "name": "neron",
     "laps": 8,
@@ -71830,12 +71836,6 @@
     "name": "Tibukeo",
     "laps": 3,
     "guid": "76561198086819153"
-   },
-   {
-    "laptime": 74746,
-    "name": "xicoo",
-    "laps": 2,
-    "guid": "76561198922879843"
    },
    {
     "laptime": 74814,
@@ -72484,6 +72484,12 @@
     "name": "Miguel",
     "laps": 1,
     "guid": "76561199471346918"
+   },
+   {
+    "laptime": 80363,
+    "name": "vin vin",
+    "laps": 1,
+    "guid": "76561198062477875"
    },
    {
     "laptime": 80877,
