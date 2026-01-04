@@ -69738,6 +69738,12 @@
     "guid": "76561198356552428"
    },
    {
+    "laptime": 70428,
+    "name": "strawberry fields",
+    "laps": 4,
+    "guid": "76561198859483766"
+   },
+   {
     "laptime": 70431,
     "name": "rob248",
     "laps": 14,
@@ -70026,6 +70032,12 @@
     "guid": "76561198079956043"
    },
    {
+    "laptime": 71169,
+    "name": "Toni Turpeinen",
+    "laps": 4,
+    "guid": "76561199092307540"
+   },
+   {
     "laptime": 71173,
     "name": "R8mus",
     "laps": 13,
@@ -70104,6 +70116,12 @@
     "guid": "76561199211192715"
    },
    {
+    "laptime": 71325,
+    "name": "Vema Vemanen",
+    "laps": 6,
+    "guid": "76561199028387218"
+   },
+   {
     "laptime": 71335,
     "name": "Harry Woods",
     "laps": 5,
@@ -70126,6 +70144,12 @@
     "name": "okajima",
     "laps": 23,
     "guid": "76561199479816450"
+   },
+   {
+    "laptime": 71371,
+    "name": "uglyG",
+    "laps": 9,
+    "guid": "76561197967594109"
    },
    {
     "laptime": 71388,
@@ -70168,6 +70192,12 @@
     "name": "Mar Brev 66",
     "laps": 1,
     "guid": "76561199406901889"
+   },
+   {
+    "laptime": 71490,
+    "name": "nAsH",
+    "laps": 12,
+    "guid": "76561199066576996"
    },
    {
     "laptime": 71493,
@@ -70404,12 +70434,6 @@
     "guid": "76561198118867405"
    },
    {
-    "laptime": 71864,
-    "name": "uglyG",
-    "laps": 3,
-    "guid": "76561197967594109"
-   },
-   {
     "laptime": 71869,
     "name": "wfelk",
     "laps": 9,
@@ -70572,12 +70596,6 @@
     "guid": "76561199186361907"
    },
    {
-    "laptime": 72039,
-    "name": "nAsH",
-    "laps": 7,
-    "guid": "76561199066576996"
-   },
-   {
     "laptime": 72050,
     "name": "Vaalthor",
     "laps": 9,
@@ -70642,12 +70660,6 @@
     "name": "isi",
     "laps": 3,
     "guid": "76561198858822043"
-   },
-   {
-    "laptime": 72277,
-    "name": "Vema Vemanen",
-    "laps": 1,
-    "guid": "76561199028387218"
    },
    {
     "laptime": 72278,
@@ -70750,6 +70762,12 @@
     "name": "Yildirin Cokca",
     "laps": 7,
     "guid": "76561198968398490"
+   },
+   {
+    "laptime": 72492,
+    "name": "DE VARTI I.",
+    "laps": 33,
+    "guid": "76561198758629364"
    },
    {
     "laptime": 72503,
@@ -70894,12 +70912,6 @@
     "name": "Slash",
     "laps": 5,
     "guid": "76561198273669957"
-   },
-   {
-    "laptime": 72802,
-    "name": "DE VARTI I.",
-    "laps": 31,
-    "guid": "76561198758629364"
    },
    {
     "laptime": 72803,
@@ -71538,6 +71550,12 @@
     "guid": "76561199543376190"
    },
    {
+    "laptime": 74123,
+    "name": "jackiejr",
+    "laps": 4,
+    "guid": "76561198812178324"
+   },
+   {
     "laptime": 74131,
     "name": "jhfddsds",
     "laps": 2,
@@ -72016,18 +72034,6 @@
     "name": "dice2012",
     "laps": 3,
     "guid": "76561198073374583"
-   },
-   {
-    "laptime": 76169,
-    "name": "jackiejr",
-    "laps": 2,
-    "guid": "76561198812178324"
-   },
-   {
-    "laptime": 76173,
-    "name": "Toni Turpeinen",
-    "laps": 2,
-    "guid": "76561199092307540"
    },
    {
     "laptime": 76231,
