@@ -70008,6 +70008,12 @@
     "guid": "76561199261160134"
    },
    {
+    "laptime": 71069,
+    "name": "Abel Sanchez",
+    "laps": 21,
+    "guid": "76561198118867405"
+   },
+   {
     "laptime": 71086,
     "name": "Cirito",
     "laps": 14,
@@ -70302,16 +70308,16 @@
     "guid": "76561199012378466"
    },
    {
-    "laptime": 71576,
-    "name": "Abel Sanchez",
-    "laps": 13,
-    "guid": "76561198118867405"
-   },
-   {
     "laptime": 71586,
     "name": "aherno",
     "laps": 3,
     "guid": "76561198169182852"
+   },
+   {
+    "laptime": 71591,
+    "name": "Alex Muñoz",
+    "laps": 18,
+    "guid": "76561199752077384"
    },
    {
     "laptime": 71594,
@@ -70722,12 +70728,6 @@
     "guid": "76561198167035873"
    },
    {
-    "laptime": 72182,
-    "name": "Alex Muñoz",
-    "laps": 13,
-    "guid": "76561199752077384"
-   },
-   {
     "laptime": 72230,
     "name": "jel713",
     "laps": 2,
@@ -71046,6 +71046,12 @@
     "guid": "76561198303969409"
    },
    {
+    "laptime": 72834,
+    "name": "Lukas Hirsch",
+    "laps": 17,
+    "guid": "76561199027113950"
+   },
+   {
     "laptime": 72857,
     "name": "Zezé Camarinha",
     "laps": 11,
@@ -71152,12 +71158,6 @@
     "name": "RedStar",
     "laps": 1,
     "guid": "76561199225559681"
-   },
-   {
-    "laptime": 73025,
-    "name": "Lukas Hirsch",
-    "laps": 9,
-    "guid": "76561199027113950"
    },
    {
     "laptime": 73041,
@@ -72130,6 +72130,12 @@
     "name": "JOSH ^-^",
     "laps": 2,
     "guid": "76561198319247116"
+   },
+   {
+    "laptime": 75464,
+    "name": "jgserena81",
+    "laps": 2,
+    "guid": "76561199190025393"
    },
    {
     "laptime": 75486,
