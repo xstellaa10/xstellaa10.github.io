@@ -230,6 +230,12 @@
     "guid": "76561198285213727"
    },
    {
+    "laptime": 139959,
+    "name": "Dani3314",
+    "laps": 9,
+    "guid": "76561198823475881"
+   },
+   {
     "laptime": 139961,
     "name": "Josh Pie",
     "laps": 28,
@@ -392,12 +398,6 @@
     "guid": "76561198067919010"
    },
    {
-    "laptime": 140552,
-    "name": "Dani3314",
-    "laps": 3,
-    "guid": "76561198823475881"
-   },
-   {
     "laptime": 140563,
     "name": "The Dark Knight",
     "laps": 40,
@@ -444,6 +444,12 @@
     "name": "jaavib",
     "laps": 9,
     "guid": "76561199016396781"
+   },
+   {
+    "laptime": 140737,
+    "name": "Felipe Rodriguez",
+    "laps": 15,
+    "guid": "76561198802663250"
    },
    {
     "laptime": 140746,
@@ -864,12 +870,6 @@
     "name": "crash champ",
     "laps": 5,
     "guid": "76561199690147849"
-   },
-   {
-    "laptime": 141875,
-    "name": "Felipe Rodriguez",
-    "laps": 9,
-    "guid": "76561198802663250"
    },
    {
     "laptime": 141893,
@@ -4386,6 +4386,12 @@
     "name": "Axel Marchori",
     "laps": 2,
     "guid": "76561198105809992"
+   },
+   {
+    "laptime": 147674,
+    "name": "Norberto Ochoa",
+    "laps": 1,
+    "guid": "76561198340698400"
    },
    {
     "laptime": 147676,
