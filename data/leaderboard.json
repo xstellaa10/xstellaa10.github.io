@@ -3866,6 +3866,12 @@
     "guid": "76561199248906961"
    },
    {
+    "laptime": 146694,
+    "name": "Sunara",
+    "laps": 4,
+    "guid": "76561198431376560"
+   },
+   {
     "laptime": 146698,
     "name": "Reflected",
     "laps": 3,
@@ -6324,6 +6330,12 @@
     "name": "JMcomic2",
     "laps": 1,
     "guid": "76561199627057417"
+   },
+   {
+    "laptime": 155825,
+    "name": "Yeackim",
+    "laps": 2,
+    "guid": "76561198235746414"
    },
    {
     "laptime": 155924,
