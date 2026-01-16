@@ -49714,6 +49714,12 @@
     "guid": "76561199440007040"
    },
    {
+    "laptime": 119285,
+    "name": "callmeLucas",
+    "laps": 7,
+    "guid": "76561198248442930"
+   },
+   {
     "laptime": 119300,
     "name": "Yatrope",
     "laps": 1,
@@ -50194,12 +50200,6 @@
     "guid": "76561199198911246"
    },
    {
-    "laptime": 121125,
-    "name": "callmeLucas",
-    "laps": 1,
-    "guid": "76561198248442930"
-   },
-   {
     "laptime": 121136,
     "name": "mauro",
     "laps": 1,
@@ -50632,6 +50632,12 @@
     "guid": "76561198018122993"
    },
    {
+    "laptime": 124276,
+    "name": "Matěj Šec",
+    "laps": 2,
+    "guid": "76561198867010128"
+   },
+   {
     "laptime": 125064,
     "name": "Nasketman",
     "laps": 1,
@@ -50750,12 +50756,6 @@
     "name": "lomich",
     "laps": 1,
     "guid": "76561198347468638"
-   },
-   {
-    "laptime": 130330,
-    "name": "Matěj Šec",
-    "laps": 1,
-    "guid": "76561198867010128"
    },
    {
     "laptime": 130711,
