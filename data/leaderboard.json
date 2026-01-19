@@ -73762,9 +73762,9 @@
     "guid": "76561198273504643"
    },
    {
-    "laptime": 118871,
+    "laptime": 118866,
     "name": "Robert Mayer",
-    "laps": 5,
+    "laps": 8,
     "guid": "76561198815387770"
    },
    {
@@ -73780,6 +73780,12 @@
     "guid": "76561198823475881"
    },
    {
+    "laptime": 119609,
+    "name": "Bennett Racz Szabo",
+    "laps": 7,
+    "guid": "76561198319370833"
+   },
+   {
     "laptime": 119644,
     "name": "NJ4FTP2 VR",
     "laps": 19,
@@ -73792,12 +73798,6 @@
     "guid": "76561199074878863"
    },
    {
-    "laptime": 121042,
-    "name": "Bennett Racz Szabo",
-    "laps": 3,
-    "guid": "76561198319370833"
-   },
-   {
     "laptime": 121166,
     "name": "Jamal alabyte",
     "laps": 2,
@@ -73808,6 +73808,18 @@
     "name": "Syme_17",
     "laps": 1,
     "guid": "76561198258292014"
+   },
+   {
+    "laptime": 122656,
+    "name": "JoP",
+    "laps": 6,
+    "guid": "76561198010877229"
+   },
+   {
+    "laptime": 123186,
+    "name": "Z P",
+    "laps": 3,
+    "guid": "76561199122154903"
    },
    {
     "laptime": 125147,
