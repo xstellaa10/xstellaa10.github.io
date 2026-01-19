@@ -73756,9 +73756,9 @@
  "rt_suzuka_suzukagp": {
   "tatuusfa1": [
    {
-    "laptime": 118151,
+    "laptime": 118117,
     "name": "Alexander",
-    "laps": 18,
+    "laps": 32,
     "guid": "76561198273504643"
    },
    {
@@ -73798,6 +73798,12 @@
     "guid": "76561199000114472"
    },
    {
+    "laptime": 119896,
+    "name": "Grimlord",
+    "laps": 10,
+    "guid": "76561198828350593"
+   },
+   {
     "laptime": 119994,
     "name": "samino",
     "laps": 4,
@@ -73816,10 +73822,10 @@
     "guid": "76561199074878863"
    },
    {
-    "laptime": 120730,
-    "name": "Grimlord",
-    "laps": 3,
-    "guid": "76561198828350593"
+    "laptime": 120271,
+    "name": "Dre Mano",
+    "laps": 6,
+    "guid": "76561198868504121"
    },
    {
     "laptime": 120920,
@@ -73840,10 +73846,10 @@
     "guid": "76561199442944100"
    },
    {
-    "laptime": 121320,
-    "name": "Dre Mano",
-    "laps": 3,
-    "guid": "76561198868504121"
+    "laptime": 121384,
+    "name": "Felipe Rodriguez",
+    "laps": 4,
+    "guid": "76561198802663250"
    },
    {
     "laptime": 121482,
@@ -73864,16 +73870,28 @@
     "guid": "76561198258292014"
    },
    {
+    "laptime": 121925,
+    "name": "isi",
+    "laps": 6,
+    "guid": "76561198858822043"
+   },
+   {
+    "laptime": 122333,
+    "name": "Aleksa Ivanisevic",
+    "laps": 6,
+    "guid": "76561198188571515"
+   },
+   {
+    "laptime": 122359,
+    "name": "UPR-USHER",
+    "laps": 3,
+    "guid": "76561199429479809"
+   },
+   {
     "laptime": 122806,
     "name": "THENAYIB",
     "laps": 2,
     "guid": "76561199090826998"
-   },
-   {
-    "laptime": 122876,
-    "name": "isi",
-    "laps": 2,
-    "guid": "76561198858822043"
    },
    {
     "laptime": 123186,
@@ -73888,12 +73906,6 @@
     "guid": "76561198004300513"
    },
    {
-    "laptime": 123662,
-    "name": "Felipe Rodriguez",
-    "laps": 1,
-    "guid": "76561198802663250"
-   },
-   {
     "laptime": 124112,
     "name": "Proviews74",
     "laps": 2,
@@ -73904,6 +73916,12 @@
     "name": "Wilbur Bo Hansson",
     "laps": 3,
     "guid": "76561198141387293"
+   },
+   {
+    "laptime": 124459,
+    "name": "Wohall",
+    "laps": 4,
+    "guid": "76561198163482603"
    },
    {
     "laptime": 124830,
@@ -73924,16 +73942,10 @@
     "guid": "76561197974858438"
    },
    {
-    "laptime": 126285,
-    "name": "Wohall",
-    "laps": 3,
-    "guid": "76561198163482603"
-   },
-   {
-    "laptime": 126299,
-    "name": "Aleksa Ivanisevic",
-    "laps": 1,
-    "guid": "76561198188571515"
+    "laptime": 125999,
+    "name": "friscodavide27",
+    "laps": 2,
+    "guid": "76561199041448548"
    },
    {
     "laptime": 126781,
@@ -73952,6 +73964,12 @@
     "name": "Nicky2Timez",
     "laps": 1,
     "guid": "76561198850727163"
+   },
+   {
+    "laptime": 134512,
+    "name": "jel713",
+    "laps": 1,
+    "guid": "76561199532220681"
    }
   ]
  }
