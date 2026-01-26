@@ -74288,9 +74288,9 @@
  "canada_2021_": {
   "tatuusfa1": [
    {
-    "laptime": 95913,
+    "laptime": 95858,
     "name": "Grimlord",
-    "laps": 9,
+    "laps": 17,
     "guid": "76561198828350593"
    },
    {
@@ -74300,16 +74300,16 @@
     "guid": "76561198965135660"
    },
    {
+    "laptime": 97387,
+    "name": "3lMist3r",
+    "laps": 6,
+    "guid": "76561198281399110"
+   },
+   {
     "laptime": 97669,
     "name": "Felipe Rodriguez",
     "laps": 2,
     "guid": "76561198802663250"
-   },
-   {
-    "laptime": 97762,
-    "name": "3lMist3r",
-    "laps": 2,
-    "guid": "76561198281399110"
    },
    {
     "laptime": 97979,
