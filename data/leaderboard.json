@@ -74460,16 +74460,22 @@
     "guid": "76561198328304798"
    },
    {
+    "laptime": 123550,
+    "name": "Alexander",
+    "laps": 14,
+    "guid": "76561198273504643"
+   },
+   {
+    "laptime": 123652,
+    "name": "universol",
+    "laps": 36,
+    "guid": "76561198253261997"
+   },
+   {
     "laptime": 123681,
     "name": "Grimlord",
     "laps": 51,
     "guid": "76561198828350593"
-   },
-   {
-    "laptime": 123761,
-    "name": "universol",
-    "laps": 30,
-    "guid": "76561198253261997"
    },
    {
     "laptime": 123967,
@@ -74482,12 +74488,6 @@
     "name": "Stella",
     "laps": 5,
     "guid": "76561198212710700"
-   },
-   {
-    "laptime": 123984,
-    "name": "Alexander",
-    "laps": 12,
-    "guid": "76561198273504643"
    },
    {
     "laptime": 125579,
